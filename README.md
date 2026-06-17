@@ -113,18 +113,33 @@ docker pull n0uk/dynast.io-server-private:release
 ### Настройка settings.env
 Описание параметров этого файла:
 
+### Настройка settings.env
+Описание всех параметров этого файла:
+
 | Параметр | Описание |
 | :--- | :--- |
-| `DYNASTIO_IP` | айпи вашего сервера, ставим либо айпи VPS либо ваш домен (сели есть) |
-| `DYNASTIO_SSL_HOST` | домен вашего сервера |
-| `DYNASTIO_HETWORK_MODE` | режим запуска сервера, в нашем случае host |
-| `DYNASTIO_MAP` | название вашей карты |
-| `DYNASTIO_UID` | ваш айди (нынче обязателен для запуска привата) |
+| `DYNASTIO_NO_BAN_CHECK` | Отключить проверку банов |
+| `DYNASTIO_CONFIG_DIR` | Переопределить директорию конфигурации |
+| `DYNASTIO_GAMEMODE` | Установить игровой режим |
+| `DYNASTIO_MAP` | Название вашей карты / Установить карту |
+| `DYNASTIO_IP` | айпи вашего сервера, ставим либо айпи VPS либо ваш домен (сели есть) / Установить IP |
+| `DYNASTIO_PORT` | порт нашего сервера / Установить порт |
+| `DYNASTIO_PING_PORT` | порт нашего сервера / Установить пинг-порт |
+| `DYNASTIO_SSL_PORT` | порт нашего сервера / Установить SSL-порт |
+| `DYNASTIO_SSL_PING_PORT` | порт нашего сервера / Установить SSL пинг-порт |
+| `DYNASTIO_CONNECTIONS_LIMIT` | Установить лимит подключений |
+| `DYNASTIO_REGION` | Установить регион |
+| `DYNASTIO_LABEL` | Установить метку (название сервера) |
+| `DYNASTIO_DEBUG` | Включить режим отладки (Debug) |
+| `DYNASTIO_ADMIN` | ID администратора сервера |
+| `DYNASTIO_CUSTOM` | Включить режим кастомного сервера |
+| `DYNASTIO_SSL_HOST` | домен вашего сервера / Установить SSL-хост |
+| `DYNASTIO_HETWORK_MODE` | режим запуска сервера, в нашем случае host / Запустить сервер в режиме relay/host |
+| `DYNASTIO_METRIC_SET_PORT` | Порт для отправки данных метрик |
+| `DYNASTIO_LOG_CONFIG` | Путь к файлу конфигурации логов |
 | `DYNASTIO_PIN_CODE` | ваш пинкод (нынче обязателен для запуска привата) |
-| `DYNASTIO_SSL_PORT` | порт нашего сервера |
-| `DYNASTIO_SSL_PING_PORT` | порт нашего сервера |
-| `DYNASTIO_PING_PORT` | порт нашего сервера |
-| `DYNASTIO_PORT` | порт нашего сервера |
+| `DYNASTIO_UID` | ваш айди (нынче обязателен для запуска привата) / ID пользователя |
+
 
 ---
 
@@ -267,4 +282,5 @@ docker run --rm --env-file /root/dyn_private/settings.env -e DYNASTIO_LABEL="Noa
 
 
 ---
+💡 **Обратная связь** Discord: isvntnk
 💡 **Заметили ошибку или хотите дополнить гайд?** Создайте [Pull Request](https://github.com) или откройте Issue!
