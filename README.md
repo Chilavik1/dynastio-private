@@ -29,14 +29,14 @@
 * **MobaXterm** — отличное решение «всё в одном» (содержит встроенную консоль и файловый менеджер SFTP).
   
   
-  ![Интерфейс MobaXterm]<img width="1280" height="683" alt="Xterm" src="https://github.com/user-attachments/assets/d5b11f1d-4f5c-4278-9bdc-e08dd10ebd5e" />
+  <img width="1280" height="683" alt="Xterm" src="https://github.com/user-attachments/assets/d5b11f1d-4f5c-4278-9bdc-e08dd10ebd5e" />
 
 
 
 * **VS Code (Remote - SSH)** — официальный плагин для редактора кода. В данном руководстве мы будем использовать именно его.
 
   
-  ![Плагин VS Code Remote SSH]<img width="1280" height="683" alt="VScode" src="https://github.com/user-attachments/assets/932bf60c-863a-4a3d-816a-99f87932ddb6" />
+  <img width="1280" height="683" alt="VScode" src="https://github.com/user-attachments/assets/932bf60c-863a-4a3d-816a-99f87932ddb6" />
 
 
 ### 🔑 Данные для авторизации
