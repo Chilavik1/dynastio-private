@@ -1,0 +1,18 @@
+{
+  "bundles": {
+    "startpack": [
+      {
+        "count": 1,
+        "item": "diamondpickaxe"
+      },
+      {
+        "count": 1,
+        "item": "goldenhammer"
+      },
+      {
+        "count": 1,
+        "item": "extinguisher"
+      }
+    ]
+  }
+}

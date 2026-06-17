@@ -1,0 +1,228 @@
+{
+  "buffs": {
+    "bleed": {
+      "damage_percent": 0.02,
+      "damage_timeout": 1
+    },
+    "experience": {
+      "increase_experience": 0.2
+    },
+    "fastbuild": {
+      "speed_multiplier": 2
+    },
+    "fireresist": {},
+    "gather": {
+      "bonus_multiplier": 2
+    },
+    "highdamage": {
+      "damage_mul": 1.25
+    },
+    "rangeddamage": {
+      "damage_mul": 1.2
+    },
+    "regeneration": {
+      "speed": 0.015
+    },
+    "resist": {
+      "damage_mul": 0.8
+    },
+    "slowdown": {
+      "speed_decrease": 0.1
+    },
+    "speed": {
+      "speed_increase": 0.1
+    },
+    "spikereflect": 0.15,
+    "stamina": {
+      "decrease_stamina_multiplier": 0.1
+    },
+    "strong_slowdown": {
+      "speed_decrease": 0.5
+    }
+  },
+  "hats": {
+    "bearhat": {
+      "damage_increase": 1.1
+    },
+    "bonehat": {
+      "damage_reduce": 0.8
+    },
+    "buffalo": {
+      "increase_speed": 0.35,
+      "start_timeout": 5
+    },
+    "cactushat": {
+      "mirror_damage": 0.15
+    },
+    "christmashat": {
+      "snowball_damage_increase": 5
+    },
+    "cowhat": {
+      "increase_speed": -0.3
+    },
+    "disguisehat": {
+      "timeout": 15
+    },
+    "druidhat": {
+      "spawn_chance": 0.05,
+      "spawn_count": 3
+    },
+    "eaglehat": {
+      "decrease_stamina_multiplier": 0.6
+    },
+    "golden_helmet": {
+      "break_chance": 0.07
+    },
+    "halloweenhat": {
+      "gathering_multiplier": 2
+    },
+    "harlequinhat": {
+      "ranged_damage_reduce": 0.25
+    },
+    "harleywig": {
+      "hand_damage_increase": 3.5,
+      "harleywig_push_increase": 2.5
+    },
+    "illusionhat": {
+      "cooldown_timeout": 300,
+      "invisibility_timeout": 10,
+      "invulnerability_timeout": 2
+    },
+    "jasonhat": {
+      "critical_chance": 0.1
+    },
+    "magichat": {
+      "decrease_stamina_multiplier": 1.5,
+      "increase_speed": 0
+    },
+    "medicinehat": {
+      "restore_coef": 0.5,
+      "speed_coef": 2
+    },
+    "monsterhunter": {
+      "attack_mul": 1.25,
+      "defence_mul": 0.75
+    },
+    "nightmarehat": {
+      "critical_chance": 0.15
+    },
+    "pilothat": {
+      "increase_experience": 0.2
+    },
+    "pinkshooterhat": {
+      "ranged_damage_increase": 1.4
+    },
+    "polarhat": {
+      "damage_mul": 1.2
+    },
+    "pumpkinhat": {
+      "spawn_chance": 0.35,
+      "spawn_count": 5
+    },
+    "ragehat": {
+      "max_add_damage_percent": 0.3
+    },
+    "rockethat": {
+      "increase_speed": 0.15,
+      "speed_while_punching": 0.3
+    },
+    "santahat": {
+      "spawn_chance": 0.5,
+      "spawn_count": 10
+    },
+    "scorehat": {
+      "increase_score": 3
+    },
+    "shooterhat": {
+      "ranged_damage_increase": 1.2
+    },
+    "sniperhat": {
+      "distance_increase": 1.4,
+      "speed_increase": 1.25
+    },
+    "sonichat": {
+      "max_speed_increase": 0.5
+    },
+    "speedhat": {
+      "increase_speed": 0.05
+    },
+    "spikehat": {
+      "mirror_damage": 0.25
+    },
+    "techhat": {
+      "vehicle_damage_k": 0.1
+    },
+    "thiefhat": {
+      "timeout": 5
+    },
+    "touristhat": {
+      "distance": 2
+    },
+    "vampirehat": {
+      "mirror_restore": 0.15
+    }
+  },
+  "shields": {
+    "cactusshield": {
+      "mirror_damage": 0.3
+    },
+    "daemonshield": {
+      "fire_chance": 0.15
+    },
+    "nightmareshield": {
+      "mirror_damage": 0.1
+    },
+    "spikeshield": {
+      "mirror_damage": 0.2
+    }
+  },
+  "skills": {
+    "building_defense": {
+      "damage_mul": 0.5
+    },
+    "damage10": {
+      "damage_mul": 1.1
+    },
+    "damage5": {
+      "damage_mul": 1.05
+    },
+    "experience": {
+      "increase_experience": 0.2
+    },
+    "fastbuild": {
+      "speed_multiplier": 2
+    },
+    "health15": {
+      "max_health_increase": 15
+    },
+    "health30": {
+      "max_health_increase": 30
+    },
+    "lowcold": {
+      "decrease_multiplier": 0.3
+    },
+    "lowheat": {
+      "increase_multiplier": 0.3
+    },
+    "lowradiation": {
+      "increase_multiplier": 0.05
+    },
+    "score": {
+      "increase_score": 1.5
+    },
+    "speed10": {
+      "speed_increase": 0.075
+    },
+    "speed5": {
+      "speed_increase": 0.05
+    },
+    "stamina": {
+      "decrease_stamina_multiplier": 0.5
+    }
+  },
+  "weapons": {
+    "spidersword": {
+      "grab_chance": 0.08
+    }
+  }
+}

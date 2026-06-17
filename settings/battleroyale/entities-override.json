@@ -1,0 +1,544 @@
+{
+  "entities": {
+    "bear": {
+      "dropset": {
+        "allowance": [
+          4
+        ],
+        "experience": 0,
+        "sets": [
+          {
+            "$": 1,
+            "%": 30,
+            "log": 20,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 30,
+            "rock": 10,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 20,
+            "bone": 5,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 20,
+            "goldore": 10,
+            "ty": "allday"
+          }
+        ]
+      },
+      "exp": {
+        "level_max": 1
+      }
+    },
+    "bronzecrate": {
+      "crate": {
+        "key_type": "Golden"
+      },
+      "dropset": {
+        "allowance": [
+          4
+        ],
+        "prevent_bonus_allowance": true,
+        "sets": [
+          {
+            "$": 3,
+            "%": 1,
+            "goldencrate": 1,
+            "ty": "allday"
+          }
+        ]
+      },
+      "health": {
+        "start_health": 100
+      }
+    },
+    "goldencrate": {
+      "crate": {
+        "key_type": "Golden"
+      },
+      "dropset": {
+        "allowance": [
+          6
+        ],
+        "prevent_bonus_allowance": true,
+        "sets": [
+          {
+            "$": 1,
+            "%": 50,
+            "bandage": 1,
+            "ty": "allday"
+          }
+        ]
+      },
+      "health": {
+        "start_health": 225
+      }
+    },
+    "itemplatform": {
+      "item_platform": {
+        "sets": [
+          {
+            "$": 1,
+            "%": 9,
+            "phantomshield": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 4,
+            "electricitykatana": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 4,
+            "dirtyfryingpane": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 4,
+            "nightmarescythe": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 4,
+            "nightmareshield": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 9,
+            "deathscythe": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 35,
+            "deathshield": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 25,
+            "diamondshield": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 40,
+            "goldenvikingaxe": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 15,
+            "lasersword": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 25,
+            "spidershield": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 40,
+            "machete": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 25,
+            "timeritesword": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 25,
+            "timeritespear": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 30,
+            "cactusweapon": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 30,
+            "boomerang": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 65,
+            "arrow": 14,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 35,
+            "chitinbow": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 20,
+            "batwithnails": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 24,
+            "darkthrowingknife": 9,
+            "ty": "allday"
+          },
+          {
+            "$": 3,
+            "%": 20,
+            "fryingpane": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 25,
+            "darkspear": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 35,
+            "spit": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 20,
+            "bonehat": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 10,
+            "bearhat": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 15,
+            "jasonhat": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 16,
+            "shooterhat": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 16,
+            "ty": "allday",
+            "vampirehat": 1
+          },
+          {
+            "$": 1,
+            "%": 20,
+            "darkshield": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 25,
+            "goldenshield": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 25,
+            "spikeshield": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 35,
+            "coppershield": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 45,
+            "simpleshield": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 35,
+            "goldensword": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 30,
+            "boneclub": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 10,
+            "ironclub": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 20,
+            "redsword": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 20,
+            "goldenkatana": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 30,
+            "goldenspear": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 30,
+            "goldenbow": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 75,
+            "arrow": 8,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 30,
+            "suriken": 5,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 40,
+            "claws": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 25,
+            "battlefan": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 18,
+            "chromeboneclub": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 35,
+            "crownhat": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 30,
+            "bushhat": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 28,
+            "speedhat": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 35,
+            "copperthrowingknife": 12,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 45,
+            "copperspear": 1,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 20,
+            "stickypotion": 2,
+            "ty": "allday"
+          }
+        ],
+        "timeout": 120
+      }
+    },
+    "player": {
+      "exp": {
+        "damage_increase": 0,
+        "health_increase": 0,
+        "power_increase": 0,
+        "stamina_increase": 0
+      }
+    },
+    "silvercrate": {
+      "crate": {
+        "key_type": "Golden"
+      },
+      "dropset": {
+        "allowance": [
+          5
+        ],
+        "prevent_bonus_allowance": true,
+        "sets": [
+          {
+            "$": 3,
+            "%": 1,
+            "goldencrate": 1,
+            "ty": "allday"
+          }
+        ]
+      },
+      "health": {
+        "start_health": 150
+      }
+    },
+    "snowtree": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 999999999
+      },
+      "recover": {
+        "force": true,
+        "migrate_distance": 0,
+        "timeout": 0
+      }
+    },
+    "spider": {
+      "dropset": {
+        "allowance": [
+          2
+        ],
+        "experience": 0,
+        "sets": [
+          {
+            "$": 1,
+            "%": 35,
+            "log": 15,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 65,
+            "ty": "allday",
+            "web": 5
+          }
+        ]
+      },
+      "exp": {
+        "level_max": 1
+      }
+    },
+    "swampchest": {
+      "dropset": {
+        "allowance": [
+          10
+        ],
+        "sets": [
+          {
+            "$": 1,
+            "%": 100,
+            "coin": 100,
+            "ty": "allday"
+          }
+        ]
+      },
+      "health": {
+        "start_health": 800
+      }
+    },
+    "tree": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 999999999
+      },
+      "recover": {
+        "force": true,
+        "migrate_distance": 0,
+        "timeout": 0
+      }
+    },
+    "werewolf": {
+      "dropset": {
+        "allowance": [
+          5
+        ],
+        "experience": 0,
+        "sets": [
+          {
+            "$": 1,
+            "%": 30,
+            "meat": 20,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 15,
+            "copperore": 15,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 15,
+            "bone": 10,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 30,
+            "rock": 20,
+            "ty": "allday"
+          },
+          {
+            "$": 1,
+            "%": 10,
+            "goldore": 20,
+            "ty": "allday"
+          }
+        ]
+      },
+      "exp": {
+        "level_max": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,1400 @@
+[
+    {
+        "color": "#ffa4a438",
+        "id": 5,
+        "members": [
+        ],
+        "name": "archer",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffaa00ff",
+        "id": 6,
+        "members": [
+        ],
+        "name": "archermannequin",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffaa5500",
+        "id": 7,
+        "members": [
+        ],
+        "name": "archertower",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff353535",
+        "id": 8,
+        "members": [
+        ],
+        "name": "ball",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffff0004",
+        "id": 9,
+        "members": [
+        ],
+        "name": "barrel",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffff5500",
+        "id": 10,
+        "members": [
+        ],
+        "name": "batspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff5358a4",
+        "id": 11,
+        "members": [
+        ],
+        "name": "battery",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffaa5500",
+        "id": 13,
+        "members": [
+        ],
+        "name": "bearspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff001887",
+        "id": 14,
+        "members": [
+        ],
+        "name": "bigholidaytree",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff118200",
+        "id": 15,
+        "members": [
+        ],
+        "name": "blackchest",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff1e1eb1",
+        "id": 128,
+        "members": [
+        ],
+        "name": "blackfern",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffa43b3b",
+        "id": 130,
+        "members": [
+        ],
+        "name": "boarspawner",
+        "type": "class",
+        "useAs": [
+            "property",
+            "map",
+            "layer",
+            "object",
+            "tile",
+            "tileset",
+            "wangcolor",
+            "wangset"
+        ]
+    },
+    {
+        "color": "#ffff0000",
+        "id": 16,
+        "members": [
+        ],
+        "name": "bonfire",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffff4433",
+        "id": 17,
+        "members": [
+        ],
+        "name": "buffalospawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff84aa06",
+        "id": 18,
+        "members": [
+        ],
+        "name": "cactus",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff49d100",
+        "id": 19,
+        "members": [
+        ],
+        "name": "cactuswall",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffaaffff",
+        "id": 22,
+        "members": [
+        ],
+        "name": "chickenspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff26a400",
+        "id": 24,
+        "members": [
+        ],
+        "name": "christmasgnome1",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffa42898",
+        "id": 25,
+        "members": [
+        ],
+        "name": "christmasgnome2",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffda0003",
+        "id": 26,
+        "members": [
+        ],
+        "name": "christmasgnome3",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff0080a4",
+        "id": 1,
+        "members": [
+        ],
+        "name": "collider",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffff4800",
+        "id": 27,
+        "members": [
+        ],
+        "name": "conductivefloor",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffa45849",
+        "id": 124,
+        "members": [
+        ],
+        "name": "copperstone",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffaaaaff",
+        "id": 28,
+        "members": [
+        ],
+        "name": "cowspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff5d008b",
+        "id": 127,
+        "members": [
+        ],
+        "name": "deadtree",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff98a417",
+        "id": 29,
+        "members": [
+        ],
+        "name": "decorativefloor1",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff55007f",
+        "id": 30,
+        "members": [
+        ],
+        "name": "decorativefloor2",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffa40787",
+        "id": 31,
+        "members": [
+        ],
+        "name": "decorativefloor3",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffff557f",
+        "id": 32,
+        "members": [
+        ],
+        "name": "decorativefloor4",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff54a3a4",
+        "id": 33,
+        "members": [
+        ],
+        "name": "decorativefloor5",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffffffff",
+        "id": 34,
+        "members": [
+        ],
+        "name": "decorativefloorchristmas1",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffb1d8f5",
+        "id": 35,
+        "members": [
+        ],
+        "name": "decorativefloorchristmas2",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffff0000",
+        "id": 36,
+        "members": [
+        ],
+        "name": "decorativefloorchristmas3",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffa42f31",
+        "id": 37,
+        "members": [
+        ],
+        "name": "decorativefloorchristmas4",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff111112",
+        "id": 38,
+        "members": [
+        ],
+        "name": "decorativefloorhalloween1",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffff7300",
+        "id": 39,
+        "members": [
+        ],
+        "name": "decorativefloorhalloween2",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffa47e62",
+        "id": 129,
+        "members": [
+        ],
+        "name": "deerspawner",
+        "type": "class",
+        "useAs": [
+            "property",
+            "map",
+            "layer",
+            "object",
+            "tile",
+            "tileset",
+            "wangcolor",
+            "wangset"
+        ]
+    },
+    {
+        "color": "#ffef7f3a",
+        "id": 41,
+        "members": [
+        ],
+        "name": "desertbushspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffc814df",
+        "id": 42,
+        "members": [
+        ],
+        "name": "diamond",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffa400a4",
+        "id": 43,
+        "members": [
+        ],
+        "name": "diamondwall",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff615f6a",
+        "id": 44,
+        "members": [
+        ],
+        "name": "electricspikes",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff494d9c",
+        "id": 45,
+        "members": [
+        ],
+        "name": "electricswitch",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff3b5aa4",
+        "id": 46,
+        "members": [
+        ],
+        "name": "electricwall",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffff5500",
+        "id": 48,
+        "members": [
+        ],
+        "name": "fireballtower",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff00ff7f",
+        "id": 49,
+        "members": [
+        ],
+        "name": "floor",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff23ee00",
+        "id": 50,
+        "members": [
+        ],
+        "name": "foreignheartstone",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffaaaaff",
+        "id": 51,
+        "members": [
+        ],
+        "name": "freechest",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff550000",
+        "id": 52,
+        "members": [
+        ],
+        "name": "furnace",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff06e3ac",
+        "id": 54,
+        "members": [
+        ],
+        "name": "giftboxspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffffff00",
+        "id": 55,
+        "members": [
+        ],
+        "name": "goldendoor",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffffff00",
+        "id": 56,
+        "members": [
+        ],
+        "name": "goldmine",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffeee605",
+        "id": 57,
+        "members": [
+        ],
+        "name": "goldstone",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffffff00",
+        "id": 58,
+        "members": [
+        ],
+        "name": "goldwall",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffaa007f",
+        "id": 59,
+        "members": [
+        ],
+        "name": "guard",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff0055ff",
+        "id": 60,
+        "members": [
+        ],
+        "name": "guardarcher",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffff0000",
+        "id": 61,
+        "members": [
+        ],
+        "name": "heartstone",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffdcffff",
+        "id": 62,
+        "members": [
+        ],
+        "name": "hedgehogspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffff1cfc",
+        "id": 63,
+        "members": [
+        ],
+        "name": "holidaytree",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffff00d5",
+        "id": 64,
+        "members": [
+        ],
+        "name": "holidaytreebuilding",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff00aaff",
+        "id": 65,
+        "members": [
+        ],
+        "name": "icespawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff55007f",
+        "id": 66,
+        "members": [
+        ],
+        "name": "knightmannequin",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffffff00",
+        "id": 67,
+        "members": [
+        ],
+        "name": "lamp",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffa4171a",
+        "id": 68,
+        "members": [
+        ],
+        "name": "mercenary",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffffaa00",
+        "id": 69,
+        "members": [
+        ],
+        "name": "molochspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff303030",
+        "id": 70,
+        "members": [
+        ],
+        "name": "penguinspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffff55ff",
+        "id": 71,
+        "members": [
+        ],
+        "name": "pigspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffee8d38",
+        "id": 72,
+        "members": [
+        ],
+        "name": "platform",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff2b2da4",
+        "id": 73,
+        "members": [
+        ],
+        "name": "policecarspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff00ff00",
+        "id": 74,
+        "members": [
+        ],
+        "name": "portal",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffff9d00",
+        "id": 75,
+        "members": [
+        ],
+        "name": "pumpkinlamp",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffaaffff",
+        "id": 76,
+        "members": [
+        ],
+        "name": "rabbitspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffff0037",
+        "id": 78,
+        "members": [
+        ],
+        "name": "redspiderspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffa40a0a",
+        "id": 79,
+        "members": [
+        ],
+        "name": "repairbox",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff636366",
+        "id": 80,
+        "members": [
+        ],
+        "name": "rockmine",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff4d4d4f",
+        "id": 81,
+        "members": [
+        ],
+        "name": "rockwall",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffa40000",
+        "id": 83,
+        "members": [
+        ],
+        "name": "santaspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffff0000",
+        "id": 2,
+        "members": [
+        ],
+        "name": "scriptableentity",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffe5bf00",
+        "id": 84,
+        "members": [
+        ],
+        "name": "secretchest",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffffffff",
+        "id": 85,
+        "members": [
+        ],
+        "name": "skeletonspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff00ffff",
+        "id": 86,
+        "members": [
+        ],
+        "name": "snowballtower",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#fffffb83",
+        "id": 87,
+        "members": [
+        ],
+        "name": "snowgoldstone",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffffffff",
+        "id": 89,
+        "members": [
+        ],
+        "name": "snowmanspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffc9c9ce",
+        "id": 90,
+        "members": [
+        ],
+        "name": "snowstone",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff09d364",
+        "id": 91,
+        "members": [
+        ],
+        "name": "snowtree",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffff0004",
+        "id": 93,
+        "members": [
+        ],
+        "name": "spawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffaa00ff",
+        "id": 4,
+        "members": [
+        ],
+        "name": "spawnpoint",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff2944a4",
+        "id": 95,
+        "members": [
+        ],
+        "name": "spiderchest",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff5b5f7f",
+        "id": 96,
+        "members": [
+        ],
+        "name": "spidercocoon",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffa414a2",
+        "id": 97,
+        "members": [
+        ],
+        "name": "spidermother",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff00557f",
+        "id": 98,
+        "members": [
+        ],
+        "name": "spiderspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff00007f",
+        "id": 99,
+        "members": [
+        ],
+        "name": "spidertower",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff5c5e5c",
+        "id": 100,
+        "members": [
+        ],
+        "name": "stone",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff0000ff",
+        "id": 101,
+        "members": [
+        ],
+        "name": "stonearchertower",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#fff52225",
+        "id": 126,
+        "members": [
+        ],
+        "name": "timeritestone",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff272728",
+        "id": 125,
+        "members": [
+        ],
+        "name": "tinstone",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff65ff1e",
+        "id": 102,
+        "members": [
+        ],
+        "name": "tortoisespawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffe1bc00",
+        "id": 103,
+        "members": [
+        ],
+        "name": "tower",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffffaaff",
+        "id": 104,
+        "members": [
+        ],
+        "name": "trap",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff008c0c",
+        "id": 105,
+        "members": [
+        ],
+        "name": "tree",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff76a47a",
+        "id": 131,
+        "members": [
+        ],
+        "name": "turkeyspawner",
+        "type": "class",
+        "useAs": [
+            "property",
+            "map",
+            "layer",
+            "object",
+            "tile",
+            "tileset",
+            "wangcolor",
+            "wangset"
+        ]
+    },
+    {
+        "color": "#ffff0004",
+        "id": 106,
+        "members": [
+        ],
+        "name": "wallbreaker",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff0055ff",
+        "id": 108,
+        "members": [
+        ],
+        "name": "werewolfspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffb47878",
+        "id": 109,
+        "members": [
+        ],
+        "name": "whitebearspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff0084f7",
+        "id": 110,
+        "members": [
+        ],
+        "name": "whitewalkerspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffa4874e",
+        "id": 111,
+        "members": [
+        ],
+        "name": "winterfloor",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffa7d3cc",
+        "id": 112,
+        "members": [
+        ],
+        "name": "winterstonegenerator",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff5ca499",
+        "id": 113,
+        "members": [
+        ],
+        "name": "wintertower",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffa44f50",
+        "id": 114,
+        "members": [
+        ],
+        "name": "winterwall",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff00d35f",
+        "id": 115,
+        "members": [
+        ],
+        "name": "winterwoodgenerator",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff414143",
+        "id": 117,
+        "members": [
+        ],
+        "name": "wolfspawner",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff00ffff",
+        "id": 118,
+        "members": [
+        ],
+        "name": "wooddoor",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff55aa00",
+        "id": 120,
+        "members": [
+        ],
+        "name": "woodmine",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ffaaaa7f",
+        "id": 121,
+        "members": [
+        ],
+        "name": "woodspikes",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff986a2a",
+        "id": 122,
+        "members": [
+        ],
+        "name": "woodwall",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    },
+    {
+        "color": "#ff72a407",
+        "id": 123,
+        "members": [
+        ],
+        "name": "zombie",
+        "type": "class",
+        "useAs": [
+            "object",
+            "tile"
+        ]
+    }
+]

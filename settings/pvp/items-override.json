@@ -1,0 +1,502 @@
+{
+  "items": {
+    "acidwand": {
+      "repair_price": 0
+    },
+    "axe": {
+      "repair_price": 0
+    },
+    "axepickaxe": {
+      "repair_price": 0
+    },
+    "battlefan": {
+      "repair_price": 0
+    },
+    "batwithnails": {
+      "repair_price": 0
+    },
+    "boneclub": {
+      "repair_price": 0
+    },
+    "bow": {
+      "repair_price": 0
+    },
+    "boxinggloves": {
+      "repair_price": 0
+    },
+    "bronzeaxe": {
+      "repair_price": 0
+    },
+    "bronzepickaxe": {
+      "repair_price": 0
+    },
+    "bronzespear": {
+      "repair_price": 0
+    },
+    "bronzethrowingknife": {
+      "repair_price": 0
+    },
+    "cactushook": {
+      "repair_price": 0
+    },
+    "cactusshield": {
+      "repair_price": 0
+    },
+    "cactussword": {
+      "repair_price": 0
+    },
+    "chitinbow": {
+      "repair_price": 0
+    },
+    "chitinshield": {
+      "repair_price": 0
+    },
+    "christmasshield": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "christmaswand": {
+      "repair_price": 0
+    },
+    "chromeboneclub": {
+      "repair_price": 0
+    },
+    "claws": {
+      "repair_price": 0
+    },
+    "club": {
+      "repair_price": 0
+    },
+    "copperaxe": {
+      "repair_price": 0
+    },
+    "copperpickaxe": {
+      "repair_price": 0
+    },
+    "copperspear": {
+      "repair_price": 0
+    },
+    "daemonknife": {
+      "durability": 1000000
+    },
+    "daemonshield": {
+      "repair_price": 0
+    },
+    "daemonsword": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "darkshield": {
+      "repair_price": 0
+    },
+    "darkspear": {
+      "repair_price": 0
+    },
+    "darksword": {
+      "repair_price": 0
+    },
+    "deathscythe": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "deathshield": {
+      "repair_price": 0
+    },
+    "diamondaxe": {
+      "repair_price": 0
+    },
+    "diamondpickaxe": {
+      "repair_price": 0
+    },
+    "diamondshield": {
+      "repair_price": 0
+    },
+    "dirtyfryingpane": {
+      "repair_price": 0
+    },
+    "electricitykatana": {
+      "repair_price": 0
+    },
+    "fireballweapon": {
+      "repair_price": 0
+    },
+    "fryingpane": {
+      "repair_price": 0
+    },
+    "goldenaxe": {
+      "repair_price": 0
+    },
+    "goldenbow": {
+      "repair_price": 0
+    },
+    "goldenhammer": {
+      "durability": 1000000
+    },
+    "goldenkatana": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "goldenkey": {
+      "durability": 1000000
+    },
+    "goldenpickaxe": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "goldenshield": {
+      "durability": 1000000
+    },
+    "goldenspear": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "goldensword": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "goldenvikingaxe": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "grapplinghook": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "guardarcherweapon": {
+      "durability": 1000000
+    },
+    "guardweapon": {
+      "durability": 1000000
+    },
+    "halloweenshield": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "halloweensword": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "hammer": {
+      "durability": 1000000
+    },
+    "hand": {
+      "durability": 1000000
+    },
+    "happyclub": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "harpoon": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "healwand": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "heraldicshield": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "hermitcrabweapon": {
+      "durability": 1000000
+    },
+    "iceshield": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "icewand": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "ironclub": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "katana": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "kunai": {
+      "durability": 1000000
+    },
+    "lasersword": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "lightwand": {
+      "repair_price": 0
+    },
+    "lollipop": {
+      "durability": 1000000
+    },
+    "mace": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "machete": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "magicwand": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "mercenaryweapon": {
+      "durability": 1000000
+    },
+    "molochweapon": {
+      "durability": 1000000
+    },
+    "moonward": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "murderer": {
+      "durability": 10,
+      "item_action": {
+        "tag_mul": {
+          "buildings": 3.0
+        }
+      },
+      "repair_price": 1000
+    },
+    "nightmarescythe": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "nightmareshield": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "nightmaresuriken": {
+      "durability": 1000000
+    },
+    "nightmareweapon": {
+      "durability": 1000000
+    },
+    "phantombow": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "phantomshield": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "phantomtowerweapon": {
+      "durability": 1000000
+    },
+    "pickaxe": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "polarbow": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "polarshield": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "polarsword": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "premiumbow": {
+      "repair_price": 0
+    },
+    "premiumkopis": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "premiumlongsword": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "premiumshield": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "redspiderweapon": {
+      "durability": 1000000
+    },
+    "redsword": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "reflectshield": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "rubysword": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "santaweapon": {
+      "durability": 1000000
+    },
+    "shadowweapon": {
+      "durability": 1000000
+    },
+    "silverkey": {
+      "durability": 1000000
+    },
+    "simpleshield": {
+      "durability": 1000000
+    },
+    "skeletonweapon": {
+      "durability": 1000000
+    },
+    "slimeweapon": {
+      "durability": 1000000
+    },
+    "snowball": {
+      "durability": 1000000
+    },
+    "snowballtowerweapon": {
+      "durability": 1000000
+    },
+    "snowmanweapon": {
+      "durability": 1000000
+    },
+    "spear": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "spidermotherweapon": {
+      "durability": 1000000
+    },
+    "spidershield": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "spidersword": {
+      "durability": 1000000,
+      "item_action": {
+        "animation_length": 0.125,
+        "attack_angle": 120,
+        "damage": 2,
+        "post_timeout": 0.1,
+        "pre_timeout": 0.07,
+        "stamina": 14,
+        "weight": "0.5"
+      },
+      "repair_price": 0
+    },
+    "spidertowerweapon": {
+      "durability": 1000000
+    },
+    "spiderwand": {
+      "durability": 1000000,
+      "item_action": {
+        "animation_length": 3.5,
+        "bullet_speed": 17,
+        "damage": 4,
+        "distance": 32,
+        "post_timeout": 2.8,
+        "pre_timeout": 1.2,
+        "stamina": 25
+      },
+      "repair_price": 0
+    },
+    "spiderweapon": {
+      "durability": 1000000
+    },
+    "spikeshield": {
+      "durability": 1000000
+    },
+    "spit": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "staffofplague": {
+      "durability": 1000000
+    },
+    "stonearchertowerweapon": {
+      "durability": 1000000
+    },
+    "suriken": {
+      "durability": 1000000
+    },
+    "swampmonsterweapon": {
+      "durability": 1000000
+    },
+    "swampwormweapon": {
+      "durability": 1000000
+    },
+    "sword": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "throwingknife": {
+      "durability": 1000000
+    },
+    "thunderwand": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "timeriteaxe": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "timeritepickaxe": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "timeriteshield": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "timeritespear": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "timeritesword": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "tool": {
+      "durability": 1000000
+    },
+    "tortoiseweapon": {
+      "durability": 1000000
+    },
+    "vikingaxe": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "voidaxepickaxe": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "voidshield": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "voidspear": {
+      "durability": 1000000,
+      "repair_price": 0
+    },
+    "wallbreakershield": {
+      "durability": 1000000
+    },
+    "wallbreakerweapon": {
+      "durability": 1000000
+    },
+    "werewolfweapon": {
+      "durability": 1000000
+    },
+    "whitebearweapon": {
+      "durability": 1000000
+    },
+    "wolfweapon": {
+      "durability": 1000000
+    },
+    "woodenhammer": {
+      "durability": 1000000
+    },
+    "zombieweapon": {
+      "durability": 1000000
+    }
+  }
+}

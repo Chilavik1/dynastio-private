@@ -1,0 +1,154 @@
+{
+    "name": "unit_guard",
+    "description": "Standard unit/guard behavior - follows owner and attacks",
+    "tree": {
+        "type": "Select",
+        "children": [
+            {
+                "type": "Sequence",
+                "children": [
+                    {
+                        "type": "IsRunning",
+                        "child": {
+                            "type": "Action",
+                            "name": "IsHardDistanceLimitReached"
+                        }
+                    },
+                    {
+                        "type": "Action",
+                        "name": "FollowUsingPath"
+                    }
+                ]
+            },
+            {
+                "type": "While",
+                "condition": {
+                    "type": "WhenAll",
+                    "children": [
+                        {
+                            "type": "Not",
+                            "child": {
+                                "type": "Action",
+                                "name": "IsHardDistanceLimitReached"
+                            }
+                        },
+                        {
+                            "type": "Action",
+                            "name": "HasAttackTarget"
+                        }
+                    ]
+                },
+                "body": [
+                    {
+                        "type": "Sequence",
+                        "children": [
+                            {
+                                "type": "Action",
+                                "name": "DropPath"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "PrepareAttack"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "LookOnTarget"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "MoveToAttackTarget"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "LookOnTarget"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "AttackAnimation"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "PreAttackTimeout"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "AttackTarget"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "PostAttackTimeout"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "While",
+                "condition": {
+                    "type": "WhenAll",
+                    "children": [
+                        {
+                            "type": "Action",
+                            "name": "IsSoftDistanceLimitReached"
+                        },
+                        {
+                            "type": "Not",
+                            "child": {
+                                "type": "Action",
+                                "name": "HasAttackTarget"
+                            }
+                        }
+                    ]
+                },
+                "body": [
+                    {
+                        "type": "Sequence",
+                        "children": [
+                            {
+                                "type": "Action",
+                                "name": "FollowUsingPath"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "While",
+                "condition": {
+                    "type": "WhenAll",
+                    "children": [
+                        {
+                            "type": "Not",
+                            "child": {
+                                "type": "Action",
+                                "name": "IsSoftDistanceLimitReached"
+                            }
+                        },
+                        {
+                            "type": "Not",
+                            "child": {
+                                "type": "Action",
+                                "name": "HasAttackTarget"
+                            }
+                        }
+                    ]
+                },
+                "body": [
+                    {
+                        "type": "Sequence",
+                        "children": [
+                            {
+                                "type": "Action",
+                                "name": "DropPath"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "Stay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "name": "brokendoll",
+    "description": "BrokenDoll: aggressive mob with two weapons (primary + aoe). SelfDestructSystem handles the suicide countdown out-of-band: when active it freezes velocity, so the tree keeps trying to attack but the body stays put until the fuse runs out and the entity explodes.",
+    "tree": {
+        "type": "Select",
+        "children": [
+            {
+                "type": "While",
+                "condition": {
+                    "type": "Action",
+                    "name": "HasAttackTarget"
+                },
+                "body": [
+                    {
+                        "type": "Select",
+                        "children": [
+                            {
+                                "type": "Sequence",
+                                "children": [
+                                    {
+                                        "type": "IsRunning",
+                                        "child": {
+                                            "type": "Action",
+                                            "name": "NeedAOEAttack"
+                                        }
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PrepareAttack"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "LookOnTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "BreakAttackSequenceTimeout"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AOEAttackAnimation"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PreAttackTimeout"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AOEAttackTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PostAttackTimeout"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "Sequence",
+                                "children": [
+                                    {
+                                        "type": "Action",
+                                        "name": "PrepareAttack"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "LookOnTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "BreakAttackSequenceTimeout"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "MoveToAttackTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AttackAnimation"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PreAttackTimeout"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AttackTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PostAttackTimeout"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "While",
+                "condition": {
+                    "type": "Action",
+                    "name": "HasNotAttackTarget"
+                },
+                "body": [
+                    {
+                        "type": "Sequence",
+                        "children": [
+                            {
+                                "type": "Action",
+                                "name": "PrepareFreeState"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "MoveFreeState"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "WaitFreeState"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

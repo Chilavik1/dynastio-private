@@ -1,0 +1,61 @@
+{
+    "name": "passive",
+    "description": "Passive animal - runs away from scary targets, patrols when safe",
+    "tree": {
+        "type": "Select",
+        "children": [
+            {
+                "type": "While",
+                "condition": {
+                    "type": "Action",
+                    "name": "HasScaryTarget"
+                },
+                "body": [
+                    {
+                        "type": "Sequence",
+                        "children": [
+                            {
+                                "type": "Action",
+                                "name": "PrepareScaryState"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "MoveOutOfScaryTarget"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "PostScaryTimeout"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "While",
+                "condition": {
+                    "type": "Action",
+                    "name": "HasNotScaryTarget"
+                },
+                "body": [
+                    {
+                        "type": "Sequence",
+                        "children": [
+                            {
+                                "type": "Action",
+                                "name": "PrepareFreeState"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "MoveFreeState"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "WaitFreeState"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

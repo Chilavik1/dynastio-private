@@ -1,0 +1,100 @@
+{
+    "craft": {
+        "bandage": {
+            "category": "8_misc",
+            "count": 1,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "web"
+                },
+                {
+                    "count": 15,
+                    "item": "meat"
+                }
+            ],
+            "ty": "bandage"
+        },
+        "crowbar": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 10,
+                    "item": "copperore"
+                },
+                {
+                    "count": 75,
+                    "item": "log"
+                }
+            ],
+            "ty": "crowbar"
+        },
+        "extinguisher": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 4,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 15,
+                    "item": "copperore"
+                }
+            ],
+            "ty": "extinguisher"
+        },
+        "hammer": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 200,
+                    "item": "log"
+                },
+                {
+                    "count": 150,
+                    "item": "rock"
+                },
+                {
+                    "count": 10,
+                    "item": "bone"
+                }
+            ],
+            "ty": "hammer"
+        },
+        "tool": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "copperore"
+                },
+                {
+                    "count": 50,
+                    "item": "rock"
+                }
+            ],
+            "ty": "tool"
+        }
+    }
+}

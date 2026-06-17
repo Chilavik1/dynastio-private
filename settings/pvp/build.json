@@ -1,0 +1,1398 @@
+{
+    "build": {
+        "archer": {
+            "build_mode": "free",
+            "build_time": 0.0,
+            "category": "2_units",
+            "description": "building.archer.description",
+            "friend_ignore_tags": [
+                "floor",
+                "canbuildunits"
+            ],
+            "header": "building.archer.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [
+                "platform"
+            ],
+            "level": 1,
+            "limit": 2,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 10,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "archer"
+        },
+        "archertower": {
+            "build_mode": "subtile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.archertower.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.archertower.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 2,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 6,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 30,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "archertower"
+        },
+        "barrel": {
+            "build_mode": "tile",
+            "build_time": 2.0,
+            "category": "3_home",
+            "description": "building.barrel.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.barrel.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 5,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 10,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "barrel"
+        },
+        "cactuswall": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.cactuswall.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.cactuswall.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 40,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 10,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "cactuswall"
+        },
+        "chest": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "3_home",
+            "description": "building.chest.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.chest.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 3,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 2,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "chest"
+        },
+        "deaddoor": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.deaddoorl.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.deaddoor.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 4,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 20,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "deaddoor"
+        },
+        "deadwall": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.deadwalll.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.deadwall.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 50,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 19,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "deadwall"
+        },
+        "deadwoodspikes": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.deadwoodspikes.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.deadwoodspikes.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 50,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 21,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "deadwoodspikes"
+        },
+        "decorativefloor1": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "5_floor",
+            "description": "building.decorativefloor1.description",
+            "friend_ignore_tags": [
+                "nonfloor"
+            ],
+            "header": "building.decorativefloor1.header",
+            "ignore_exp": "TRUE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 25,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "decorativefloor1"
+        },
+        "decorativefloor2": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "5_floor",
+            "description": "building.decorativefloor1.description",
+            "friend_ignore_tags": [
+                "nonfloor"
+            ],
+            "header": "building.decorativefloor1.header",
+            "ignore_exp": "TRUE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 25,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 7,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "decorativefloor2"
+        },
+        "decorativefloor3": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "5_floor",
+            "description": "building.decorativefloor1.description",
+            "friend_ignore_tags": [
+                "nonfloor"
+            ],
+            "header": "building.decorativefloor1.header",
+            "ignore_exp": "TRUE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 25,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 6,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "decorativefloor3"
+        },
+        "decorativefloor4": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "5_floor",
+            "description": "building.decorativefloor1.description",
+            "friend_ignore_tags": [
+                "nonfloor"
+            ],
+            "header": "building.decorativefloor1.header",
+            "ignore_exp": "TRUE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 25,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "decorativefloor4"
+        },
+        "decorativefloor5": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "5_floor",
+            "description": "building.decorativefloor1.description",
+            "friend_ignore_tags": [
+                "nonfloor"
+            ],
+            "header": "building.decorativefloor1.header",
+            "ignore_exp": "TRUE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 25,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 4,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "decorativefloor5"
+        },
+        "decorativefloor6": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "5_floor",
+            "description": "building.decorativefloor1.description",
+            "friend_ignore_tags": [
+                "nonfloor"
+            ],
+            "header": "building.decorativefloor1.header",
+            "ignore_exp": "TRUE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 25,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "decorativefloor6"
+        },
+        "decorativefloorchristmas1": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "9_holidays",
+            "description": "building.decorativefloorchristmas1.description",
+            "event": "christmas",
+            "friend_ignore_tags": [
+                "nonfloor"
+            ],
+            "header": "building.decorativefloorchristmas1.header",
+            "ignore_exp": "TRUE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 25,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "decorativefloorchristmas1"
+        },
+        "decorativefloorchristmas2": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "9_holidays",
+            "description": "building.decorativefloorchristmas1.description",
+            "event": "christmas",
+            "friend_ignore_tags": [
+                "nonfloor"
+            ],
+            "header": "building.decorativefloorchristmas2.header",
+            "ignore_exp": "TRUE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 25,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "decorativefloorchristmas2"
+        },
+        "decorativefloorchristmas3": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "9_holidays",
+            "description": "building.decorativefloorchristmas1.description",
+            "event": "christmas",
+            "friend_ignore_tags": [
+                "nonfloor"
+            ],
+            "header": "building.decorativefloorchristmas3.header",
+            "ignore_exp": "TRUE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 25,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "decorativefloorchristmas3"
+        },
+        "decorativefloorchristmas4": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "9_holidays",
+            "description": "building.decorativefloorchristmas1.description",
+            "event": "christmas",
+            "friend_ignore_tags": [
+                "nonfloor"
+            ],
+            "header": "building.decorativefloorchristmas3.header",
+            "ignore_exp": "TRUE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 25,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "decorativefloorchristmas4"
+        },
+        "diamonddoor": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.diamonddoor.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.diamonddoor.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 6,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 16,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 30,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "diamonddoor"
+        },
+        "diamondwall": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.diamondwall.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.diamondwall.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 60,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 15,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 30,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "diamondwall"
+        },
+        "fireballtower": {
+            "build_mode": "subtile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.fireballtower.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.fireballtower.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 2,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 17,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "fireballtower"
+        },
+        "firewatchertower": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.firewatchertower.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.firewatchertower.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 4,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 7,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 15,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "firewatchertower"
+        },
+        "floor": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "5_floor",
+            "description": "building.floor.description",
+            "friend_ignore_tags": [
+                "nonfloor"
+            ],
+            "header": "building.floor.header",
+            "ignore_exp": "TRUE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 100,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 2,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "floor"
+        },
+        "goldendoor": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.goldendoor.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.goldendoor.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 6,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 13,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 15,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "goldendoor"
+        },
+        "goldwall": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.goldwall.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.goldwall.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 60,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 11,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 15,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "goldwall"
+        },
+        "guard": {
+            "build_mode": "free",
+            "build_time": 0.0,
+            "category": "2_units",
+            "description": "building.guard.description",
+            "friend_ignore_tags": [
+                "floor",
+                "canbuildunits"
+            ],
+            "header": "building.guard.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [
+                "platform"
+            ],
+            "level": 1,
+            "limit": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "guard"
+        },
+        "guardarcher": {
+            "build_mode": "free",
+            "build_time": 0.0,
+            "category": "2_units",
+            "description": "building.guardarcher.description",
+            "friend_ignore_tags": [
+                "floor",
+                "canbuildunits"
+            ],
+            "header": "building.guardarcher.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [
+                "platform"
+            ],
+            "level": 1,
+            "limit": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 4,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "guardarcher"
+        },
+        "halloweencar": {
+            "build_mode": "free",
+            "build_time": 5.0,
+            "category": "4_vehicle",
+            "description": "building.halloweencar.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.halloweencar.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 1,
+            "locked": "TRUE",
+            "only_premium": "FALSE",
+            "order": 6,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 30,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "halloweencar"
+        },
+        "heartstone": {
+            "build_mode": "tile",
+            "build_time": 7.0,
+            "category": "1_defense",
+            "description": "building.heartstone.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.heartstone.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "heartstone"
+        },
+        "holidaytreebuilding": {
+            "build_mode": "free",
+            "build_time": 0.0,
+            "category": "9_holidays",
+            "description": "building.holidaytreebuilding.description",
+            "event": "christmas",
+            "friend_ignore_tags": [
+                "nonfloor"
+            ],
+            "header": "building.holidaytreebuilding.header",
+            "ignore_exp": "TRUE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 25,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "holidaytreebuilding"
+        },
+        "mercenary": {
+            "build_mode": "free",
+            "build_time": 0.0,
+            "category": "2_units",
+            "description": "building.mercenary.description",
+            "friend_ignore_tags": [
+                "floor",
+                "canbuildunits"
+            ],
+            "header": "building.mercenary.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [
+                "platform"
+            ],
+            "level": 1,
+            "limit": 2,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 10,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "mercenary"
+        },
+        "phantomtower": {
+            "build_mode": "subtile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.phantomtower.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.phantomtower.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 2,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 22,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 150,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "phantomtower"
+        },
+        "platform": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.platform.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.platform.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 4,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 10,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "platform"
+        },
+        "premiumtower": {
+            "build_mode": "free",
+            "build_time": 0.0,
+            "category": "3_home",
+            "description": "building.premiumtower.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.premiumtower.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 5,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 4,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "premiumtower"
+        },
+        "premiumwall": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.premiumwall.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.premiumwall.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 70,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 12,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 25,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "premiumwall"
+        },
+        "reflectwall": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.reflectwall.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.reflectwall.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 10,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 23,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 40,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "reflectwall"
+        },
+        "rockwall": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.rockwall.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.rockwall.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 60,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 10,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "rockwall"
+        },
+        "scooter": {
+            "build_mode": "free",
+            "build_time": 5.0,
+            "category": "4_vehicle",
+            "description": "building.scooter.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.scooter.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "scooter"
+        },
+        "sixcar": {
+            "build_mode": "free",
+            "build_time": 5.0,
+            "category": "4_vehicle",
+            "description": "building.sixcar.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.sixcar.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 2,
+            "locked": "TRUE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "sixcar"
+        },
+        "sleigh": {
+            "build_mode": "free",
+            "build_time": 0.0,
+            "category": "9_holidays",
+            "description": "building.sleigh.description",
+            "event": "christmas",
+            "friend_ignore_tags": [
+                "nonfloor"
+            ],
+            "header": "building.sleigh.header",
+            "ignore_exp": "TRUE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "sleigh"
+        },
+        "snowballtower": {
+            "build_mode": "subtile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.snowballtower.description",
+            "event": "christmas",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.snowballtower.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 2,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 18,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 80,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "snowballtower"
+        },
+        "stonearchertower": {
+            "build_mode": "subtile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.stonearchertower.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.stonearchertower.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 2,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 14,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 40,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "stonearchertower"
+        },
+        "tower": {
+            "build_mode": "free",
+            "build_time": 0.0,
+            "category": "3_home",
+            "description": "building.tower.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.tower.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 5,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 10,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "tower"
+        },
+        "trap": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.trap.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.trap.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 6,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 9,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "trap"
+        },
+        "wallbreaker": {
+            "build_mode": "free",
+            "build_time": 0.0,
+            "category": "2_units",
+            "description": "building.wallbreaker.description",
+            "friend_ignore_tags": [
+                "floor",
+                "canbuildunits"
+            ],
+            "header": "building.wallbreaker.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [
+                "platform"
+            ],
+            "level": 1,
+            "limit": 2,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "wallbreaker"
+        },
+        "wooddoor": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.wooddoor.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.wooddoor.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 6,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "wooddoor"
+        },
+        "woodenplate": {
+            "build_mode": "free",
+            "build_time": 0.0,
+            "category": "5_floor",
+            "description": "building.woodenplate.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.woodenplate.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 0,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "woodenplate"
+        },
+        "woodspikes": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.woodspikes.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.woodspikes.header",
+            "ignore_exp": "FALSE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 50,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 4,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "woodspikes"
+        },
+        "woodwall": {
+            "build_mode": "tile",
+            "build_time": 0.0,
+            "category": "1_defense",
+            "description": "building.woodwall.description",
+            "friend_ignore_tags": [
+                "floor"
+            ],
+            "header": "building.woodwall.header",
+            "ignore_exp": "TRUE",
+            "ignore_tags": [],
+            "ignore_types": [],
+            "level": 1,
+            "limit": 60,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "goldore"
+                }
+            ],
+            "require_auth": "FALSE",
+            "require_zone_tags": [],
+            "ty": "woodwall"
+        }
+    }
+}

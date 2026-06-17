@@ -1,0 +1,2847 @@
+{
+    "craft": {
+        "acidball": {
+            "category": "8_misc",
+            "count": 6,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 25,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 8,
+                    "item": "magicball"
+                },
+                {
+                    "count": 3,
+                    "item": "oil"
+                }
+            ],
+            "ty": "acidball"
+        },
+        "acidwand": {
+            "category": "1_weapon",
+            "count": 1,
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 40,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "leather"
+                },
+                {
+                    "count": 60,
+                    "item": "infecteddiamond"
+                },
+                {
+                    "count": 900000,
+                    "item": "deadlog"
+                },
+                {
+                    "count": 1,
+                    "item": "goldenbow"
+                }
+            ],
+            "ty": "acidwand"
+        },
+        "arrow": {
+            "category": "8_misc",
+            "count": 4,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 19,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 5000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "arrow"
+        },
+        "astralite": {
+            "category": "9_holidays",
+            "count": 10,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 30,
+                    "item": "diamond"
+                },
+                {
+                    "count": 10,
+                    "item": "iceball"
+                }
+            ],
+            "ty": "astralite"
+        },
+        "astraspear": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 21,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 30,
+                    "item": "leather"
+                },
+                {
+                    "count": 50,
+                    "item": "crystalthreads"
+                },
+                {
+                    "count": 40,
+                    "item": "astralite"
+                },
+                {
+                    "count": 1,
+                    "item": "timeritespear"
+                }
+            ],
+            "ty": "astraspear"
+        },
+        "astrasword": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 6,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 30,
+                    "item": "leather"
+                },
+                {
+                    "count": 40,
+                    "item": "crystalthreads"
+                },
+                {
+                    "count": 30,
+                    "item": "astralite"
+                },
+                {
+                    "count": 1,
+                    "item": "nightmarescythe"
+                }
+            ],
+            "ty": "astrasword"
+        },
+        "baseballhat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 3000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 3000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "baseballhat"
+        },
+        "batwithnails": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 5000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "batwithnails"
+        },
+        "bearhat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 12,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 300,
+                    "item": "diamond"
+                },
+                {
+                    "count": 150,
+                    "item": "fur"
+                },
+                {
+                    "count": 1,
+                    "item": "rubysword"
+                }
+            ],
+            "ty": "bearhat"
+        },
+        "boneclub": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 33,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1800000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 1800000,
+                    "item": "rock"
+                },
+                {
+                    "count": 1,
+                    "item": "club"
+                }
+            ],
+            "ty": "boneclub"
+        },
+        "bonehat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 13,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "magickdust"
+                },
+                {
+                    "count": 300,
+                    "item": "diamond"
+                },
+                {
+                    "count": 150,
+                    "item": "bone"
+                },
+                {
+                    "count": 1,
+                    "item": "chitinshield"
+                }
+            ],
+            "ty": "bonehat"
+        },
+        "boostpad": {
+            "category": "8_misc",
+            "count": 3,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 21,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 6000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 6000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "boostpad"
+        },
+        "bow": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 22,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 5000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "bow"
+        },
+        "bronzekey": {
+            "category": "8_misc",
+            "count": 1,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 16,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1000,
+                    "item": "tinore"
+                }
+            ],
+            "ty": "bronzekey"
+        },
+        "bronzepickaxe": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 600000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 600000,
+                    "item": "rock"
+                },
+                {
+                    "count": 1,
+                    "item": "copperpickaxe"
+                }
+            ],
+            "ty": "bronzepickaxe"
+        },
+        "buildingpotion": {
+            "category": "7_potion",
+            "count": 3,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 4,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 3,
+                    "item": "blackfern"
+                },
+                {
+                    "count": 120,
+                    "item": "nails"
+                },
+                {
+                    "count": 300,
+                    "item": "diamond"
+                }
+            ],
+            "ty": "buildingpotion"
+        },
+        "bushhat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 3000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 3000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "bushhat"
+        },
+        "cactushook": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 35,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1800000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 1800000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "cactushook"
+        },
+        "cactuspotion": {
+            "category": "7_potion",
+            "count": 3,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 9,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 3,
+                    "item": "blackfern"
+                },
+                {
+                    "count": 25000,
+                    "item": "cactus"
+                },
+                {
+                    "count": 15000,
+                    "item": "snowball"
+                }
+            ],
+            "ty": "cactuspotion"
+        },
+        "chitinbow": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 24,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 300000,
+                    "item": "deadlog"
+                },
+                {
+                    "count": 12,
+                    "item": "ghostthread"
+                },
+                {
+                    "count": 300,
+                    "item": "chitin"
+                },
+                {
+                    "count": 1,
+                    "item": "goldenbow"
+                }
+            ],
+            "ty": "chitinbow"
+        },
+        "chitinshield": {
+            "category": "3_defense",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 4,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 150,
+                    "item": "diamond"
+                },
+                {
+                    "count": 1000000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 1000000,
+                    "item": "rock"
+                },
+                {
+                    "count": 1,
+                    "item": "darkshield"
+                }
+            ],
+            "ty": "chitinshield"
+        },
+        "christmaswand": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 26,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 40,
+                    "item": "iceball"
+                },
+                {
+                    "count": 500000,
+                    "item": "snowball"
+                },
+                {
+                    "count": 1500,
+                    "item": "diamond"
+                },
+                {
+                    "count": 1,
+                    "item": "goldenbow"
+                }
+            ],
+            "ty": "christmaswand"
+        },
+        "chromeboneclub": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 14,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 3000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 3000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "chromeboneclub"
+        },
+        "club": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 32,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 5000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "club"
+        },
+        "copperpickaxe": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 300000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 300000,
+                    "item": "rock"
+                },
+                {
+                    "count": 1,
+                    "item": "pickaxe"
+                }
+            ],
+            "ty": "copperpickaxe"
+        },
+        "crowbar": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 11,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 200,
+                    "item": "diamond"
+                },
+                {
+                    "count": 20,
+                    "item": "bone"
+                }
+            ],
+            "ty": "crowbar"
+        },
+        "crownhat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 4,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 5000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "crownhat"
+        },
+        "crystalthreads": {
+            "category": "9_holidays",
+            "count": 10,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 7,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 30,
+                    "item": "diamond"
+                },
+                {
+                    "count": 10,
+                    "item": "ghostthread"
+                }
+            ],
+            "ty": "crystalthreads"
+        },
+        "daemonpotion": {
+            "category": "7_potion",
+            "count": 3,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 3,
+                    "item": "blackfern"
+                },
+                {
+                    "count": 30,
+                    "item": "infecteddiamond"
+                },
+                {
+                    "count": 100,
+                    "item": "magma"
+                }
+            ],
+            "ty": "daemonpotion"
+        },
+        "darkboomerang": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 31,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 80,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 600,
+                    "item": "lollipop"
+                },
+                {
+                    "count": 20,
+                    "item": "ghostthread"
+                },
+                {
+                    "count": 150,
+                    "item": "chitin"
+                }
+            ],
+            "ty": "darkboomerang"
+        },
+        "darkmatter": {
+            "category": "9_holidays",
+            "count": 10,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 60,
+                    "item": "diamond"
+                }
+            ],
+            "ty": "darkmatter"
+        },
+        "darkshield": {
+            "category": "3_defense",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 600000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 600000,
+                    "item": "rock"
+                },
+                {
+                    "count": 1,
+                    "item": "goldenshield"
+                }
+            ],
+            "ty": "darkshield"
+        },
+        "darkspear": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 18,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1800000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 1800000,
+                    "item": "rock"
+                },
+                {
+                    "count": 1,
+                    "item": "spear"
+                }
+            ],
+            "ty": "darkspear"
+        },
+        "darkthrowingknife": {
+            "category": "1_weapon",
+            "count": 10,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 29,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 15000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 15000,
+                    "item": "rock"
+                },
+                {
+                    "count": 10,
+                    "item": "throwingknife"
+                }
+            ],
+            "ty": "darkthrowingknife"
+        },
+        "deathshield": {
+            "category": "3_defense",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 300,
+                    "item": "diamond"
+                },
+                {
+                    "count": 150,
+                    "item": "dust"
+                },
+                {
+                    "count": 1,
+                    "item": "chitinshield"
+                }
+            ],
+            "ty": "deathshield"
+        },
+        "diamond": {
+            "category": "9_holidays",
+            "count": 3,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 50000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "diamond"
+        },
+        "diamondpickaxe": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 300,
+                    "item": "diamond"
+                },
+                {
+                    "count": 1,
+                    "item": "goldenpickaxe"
+                }
+            ],
+            "ty": "diamondpickaxe"
+        },
+        "diamondshield": {
+            "category": "3_defense",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 7,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 300,
+                    "item": "diamond"
+                },
+                {
+                    "count": 100,
+                    "item": "bone"
+                },
+                {
+                    "count": 1,
+                    "item": "deathshield"
+                }
+            ],
+            "ty": "diamondshield"
+        },
+        "dirtyfryingpane": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 10,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 500000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 500000,
+                    "item": "rock"
+                },
+                {
+                    "count": 1,
+                    "item": "fryingpane"
+                }
+            ],
+            "ty": "dirtyfryingpane"
+        },
+        "disguisehat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 20,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 30,
+                    "item": "magickdust"
+                },
+                {
+                    "count": 6,
+                    "item": "ghostthread"
+                },
+                {
+                    "count": 1,
+                    "item": "bushhat"
+                }
+            ],
+            "ty": "disguisehat"
+        },
+        "electricitykatana": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 15,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "magickdust"
+                },
+                {
+                    "count": 3000,
+                    "item": "boostpad"
+                },
+                {
+                    "count": 20,
+                    "item": "crystalthreads"
+                },
+                {
+                    "count": 1,
+                    "item": "katana"
+                }
+            ],
+            "ty": "electricitykatana"
+        },
+        "extinguisher": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 13,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 3000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 3000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "extinguisher"
+        },
+        "fireball": {
+            "category": "8_misc",
+            "count": 10,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 23,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 10,
+                    "item": "magicball"
+                },
+                {
+                    "count": 3,
+                    "item": "dust"
+                }
+            ],
+            "ty": "fireball"
+        },
+        "firepotion": {
+            "category": "7_potion",
+            "count": 3,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 7,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 6,
+                    "item": "blackfern"
+                },
+                {
+                    "count": 5,
+                    "item": "powder"
+                },
+                {
+                    "count": 100,
+                    "item": "dust"
+                }
+            ],
+            "ty": "firepotion"
+        },
+        "fryingpane": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 9,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 300000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 300000,
+                    "item": "rock"
+                },
+                {
+                    "count": 1,
+                    "item": "batwithnails"
+                }
+            ],
+            "ty": "fryingpane"
+        },
+        "furhat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 3000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 3000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "furhat"
+        },
+        "gatherpotion": {
+            "category": "7_potion",
+            "count": 3,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 30,
+                    "item": "magickdust"
+                },
+                {
+                    "count": 60,
+                    "item": "diamond"
+                }
+            ],
+            "ty": "gatherpotion"
+        },
+        "ghostthread": {
+            "category": "9_holidays",
+            "count": 1,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 10,
+                    "item": "web"
+                }
+            ],
+            "ty": "ghostthread"
+        },
+        "goldenbow": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 23,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1000000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 1000000,
+                    "item": "rock"
+                },
+                {
+                    "count": 1,
+                    "item": "bow"
+                }
+            ],
+            "ty": "goldenbow"
+        },
+        "goldenhammer": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 10,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 120,
+                    "item": "nails"
+                },
+                {
+                    "count": 1,
+                    "item": "hammer"
+                }
+            ],
+            "ty": "goldenhammer"
+        },
+        "goldenkatana": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 16,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 3000,
+                    "item": "boostpad"
+                },
+                {
+                    "count": 20,
+                    "item": "crystalthreads"
+                },
+                {
+                    "count": 1,
+                    "item": "katana"
+                }
+            ],
+            "ty": "goldenkatana"
+        },
+        "goldenkey": {
+            "category": "8_misc",
+            "count": 1,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 18,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50000,
+                    "item": "tinore"
+                }
+            ],
+            "ty": "goldenkey"
+        },
+        "goldenpickaxe": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 4,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1500000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 1500000,
+                    "item": "rock"
+                },
+                {
+                    "count": 1,
+                    "item": "bronzepickaxe"
+                }
+            ],
+            "ty": "goldenpickaxe"
+        },
+        "goldenshield": {
+            "category": "3_defense",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 300000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 300000,
+                    "item": "rock"
+                },
+                {
+                    "count": 1,
+                    "item": "simpleshield"
+                }
+            ],
+            "ty": "goldenshield"
+        },
+        "goldenspear": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 20,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "magickdust"
+                },
+                {
+                    "count": 300,
+                    "item": "diamond"
+                },
+                {
+                    "count": 10,
+                    "item": "leather"
+                },
+                {
+                    "count": 1,
+                    "item": "darkspear"
+                }
+            ],
+            "ty": "goldenspear"
+        },
+        "goldensword": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 300000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 300000,
+                    "item": "rock"
+                },
+                {
+                    "count": 1,
+                    "item": "sword"
+                }
+            ],
+            "ty": "goldensword"
+        },
+        "goldore": {
+            "category": "9_holidays",
+            "count": 1000,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 13,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "goldore"
+        },
+        "grapplinghook": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 36,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "magickdust"
+                },
+                {
+                    "count": 300,
+                    "item": "diamond"
+                },
+                {
+                    "count": 15,
+                    "item": "ghostthread"
+                },
+                {
+                    "count": 1,
+                    "item": "cactushook"
+                }
+            ],
+            "ty": "grapplinghook"
+        },
+        "grenadefire": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 28,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "powder"
+                },
+                {
+                    "count": 60,
+                    "item": "dust"
+                },
+                {
+                    "count": 6,
+                    "item": "blackfern"
+                }
+            ],
+            "ty": "grenadefire"
+        },
+        "grenadeice": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 29,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "powder"
+                },
+                {
+                    "count": 10,
+                    "item": "iceball"
+                },
+                {
+                    "count": 6,
+                    "item": "blackfern"
+                }
+            ],
+            "ty": "grenadeice"
+        },
+        "grenadesticky": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 27,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "powder"
+                },
+                {
+                    "count": 60,
+                    "item": "web"
+                },
+                {
+                    "count": 6,
+                    "item": "blackfern"
+                }
+            ],
+            "ty": "grenadesticky"
+        },
+        "grenadetoxic": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 30,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "powder"
+                },
+                {
+                    "count": 50,
+                    "item": "oil"
+                },
+                {
+                    "count": 6,
+                    "item": "blackfern"
+                }
+            ],
+            "ty": "grenadetoxic"
+        },
+        "halloweenhat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 17,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 200,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 200,
+                    "item": "magickdust"
+                },
+                {
+                    "count": 600,
+                    "item": "diamond"
+                },
+                {
+                    "count": 6,
+                    "item": "gatherpotion"
+                }
+            ],
+            "ty": "halloweenhat"
+        },
+        "hammer": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 9,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 750000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 750000,
+                    "item": "rock"
+                },
+                {
+                    "count": 1,
+                    "item": "woodenhammer"
+                }
+            ],
+            "ty": "hammer"
+        },
+        "happyclub": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 34,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "magickdust"
+                },
+                {
+                    "count": 300,
+                    "item": "diamond"
+                },
+                {
+                    "count": 300000,
+                    "item": "log"
+                },
+                {
+                    "count": 1,
+                    "item": "boneclub"
+                }
+            ],
+            "ty": "happyclub"
+        },
+        "harpoon": {
+            "category": "1_weapon",
+            "count": 1,
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 43,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 120,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 600,
+                    "item": "chitin"
+                },
+                {
+                    "count": 300,
+                    "item": "bone"
+                },
+                {
+                    "count": 1,
+                    "item": "grapplinghook"
+                }
+            ],
+            "ty": "harpoon"
+        },
+        "iceshield": {
+            "category": "3_defense",
+            "count": 1,
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 8,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "iceball"
+                },
+                {
+                    "count": 600,
+                    "item": "fur"
+                },
+                {
+                    "count": 900,
+                    "item": "diamond"
+                },
+                {
+                    "count": 1,
+                    "item": "deathshield"
+                }
+            ],
+            "ty": "iceshield"
+        },
+        "illusionhat": {
+            "category": "6_hats",
+            "count": 1,
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 21,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "magickdust"
+                },
+                {
+                    "count": 100,
+                    "item": "crystalthreads"
+                },
+                {
+                    "count": 600,
+                    "item": "diamond"
+                }
+            ],
+            "ty": "illusionhat"
+        },
+        "infecteddiamond": {
+            "category": "9_holidays",
+            "count": 10,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 6,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 30,
+                    "item": "diamond"
+                },
+                {
+                    "count": 10,
+                    "item": "oil"
+                }
+            ],
+            "ty": "infecteddiamond"
+        },
+        "iodinepotion": {
+            "category": "7_potion",
+            "count": 3,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 3,
+                    "item": "blackfern"
+                },
+                {
+                    "count": 2,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 10,
+                    "item": "web"
+                }
+            ],
+            "ty": "iodinepotion"
+        },
+        "ironclub": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 11,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1000000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 1000000,
+                    "item": "rock"
+                },
+                {
+                    "count": 150,
+                    "item": "diamond"
+                },
+                {
+                    "count": 1,
+                    "item": "dirtyfryingpane"
+                }
+            ],
+            "ty": "ironclub"
+        },
+        "katana": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 13,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1800000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 1800000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "katana"
+        },
+        "kunai": {
+            "category": "1_weapon",
+            "count": 10,
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 41,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "phantomarrow"
+                },
+                {
+                    "count": 10,
+                    "item": "darkthrowingknife"
+                }
+            ],
+            "ty": "kunai"
+        },
+        "leather": {
+            "category": "9_holidays",
+            "count": 1,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 9,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "chitin"
+                },
+                {
+                    "count": 20,
+                    "item": "web"
+                },
+                {
+                    "count": 10,
+                    "item": "bone"
+                }
+            ],
+            "ty": "leather"
+        },
+        "lollipop": {
+            "category": "1_weapon",
+            "count": 10,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 30,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 20000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 20000,
+                    "item": "rock"
+                },
+                {
+                    "count": 10,
+                    "item": "darkthrowingknife"
+                }
+            ],
+            "ty": "lollipop"
+        },
+        "mace": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 12,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 300,
+                    "item": "diamond"
+                },
+                {
+                    "count": 150,
+                    "item": "fur"
+                },
+                {
+                    "count": 1,
+                    "item": "ironclub"
+                }
+            ],
+            "ty": "mace"
+        },
+        "machete": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 500000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 500000,
+                    "item": "rock"
+                },
+                {
+                    "count": 1,
+                    "item": "goldensword"
+                }
+            ],
+            "ty": "machete"
+        },
+        "magicball": {
+            "category": "8_misc",
+            "count": 3,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 20,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 7000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 7000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "magicball"
+        },
+        "magichat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 10,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "magickdust"
+                },
+                {
+                    "count": 900,
+                    "item": "magicball"
+                },
+                {
+                    "count": 20,
+                    "item": "crystalthreads"
+                },
+                {
+                    "count": 1,
+                    "item": "propellerhat"
+                }
+            ],
+            "ty": "magichat"
+        },
+        "magickdust": {
+            "category": "9_holidays",
+            "count": 10,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 4,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 60,
+                    "item": "diamond"
+                }
+            ],
+            "ty": "magickdust"
+        },
+        "magicwand": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 25,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 500,
+                    "item": "fur"
+                },
+                {
+                    "count": 1500,
+                    "item": "diamond"
+                },
+                {
+                    "count": 500000,
+                    "item": "log"
+                },
+                {
+                    "count": 1,
+                    "item": "goldenbow"
+                }
+            ],
+            "ty": "magicwand"
+        },
+        "magma": {
+            "category": "9_holidays",
+            "count": 50,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 10,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5000,
+                    "item": "timeriteore"
+                },
+                {
+                    "count": 120,
+                    "item": "dust"
+                }
+            ],
+            "ty": "magma"
+        },
+        "medicinehat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 12,
+                    "item": "ghostthread"
+                },
+                {
+                    "count": 80,
+                    "item": "web"
+                }
+            ],
+            "ty": "medicinehat"
+        },
+        "monsterhunterhat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 18,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 30,
+                    "item": "leather"
+                },
+                {
+                    "count": 150,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 150,
+                    "item": "infecteddiamond"
+                },
+                {
+                    "count": 30,
+                    "item": "blackfern"
+                }
+            ],
+            "ty": "monsterhunterhat"
+        },
+        "nails": {
+            "category": "9_holidays",
+            "count": 20,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 30,
+                    "item": "diamond"
+                },
+                {
+                    "count": 150000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 150000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "nails"
+        },
+        "nightmarescythe": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 300,
+                    "item": "diamond"
+                },
+                {
+                    "count": 150,
+                    "item": "bone"
+                },
+                {
+                    "count": 1,
+                    "item": "rubysword"
+                }
+            ],
+            "ty": "nightmarescythe"
+        },
+        "phantomarrow": {
+            "category": "8_misc",
+            "count": 8,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 24,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 3000,
+                    "item": "deadlog"
+                },
+                {
+                    "count": 3,
+                    "item": "oil"
+                }
+            ],
+            "ty": "phantomarrow"
+        },
+        "pickaxe": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 0,
+                    "item": "goldore"
+                },
+                {
+                    "count": 0,
+                    "item": "rock"
+                }
+            ],
+            "ty": "pickaxe"
+        },
+        "pinkshooterhat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 11,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "magickdust"
+                },
+                {
+                    "count": 8,
+                    "item": "leather"
+                },
+                {
+                    "count": 300,
+                    "item": "diamond"
+                },
+                {
+                    "count": 1,
+                    "item": "shooterhat"
+                }
+            ],
+            "ty": "pinkshooterhat"
+        },
+        "powder": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 26,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "dust"
+                }
+            ],
+            "ty": "powder"
+        },
+        "premiumbow": {
+            "category": "1_weapon",
+            "count": 1,
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 39,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "leather"
+                },
+                {
+                    "count": 60,
+                    "item": "crystalthreads"
+                },
+                {
+                    "count": 600,
+                    "item": "diamond"
+                },
+                {
+                    "count": 1,
+                    "item": "goldenbow"
+                }
+            ],
+            "ty": "premiumbow"
+        },
+        "premiumcrowbar": {
+            "category": "8_misc",
+            "count": 1,
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 31,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "magickdust"
+                },
+                {
+                    "count": 1,
+                    "item": "crowbar"
+                },
+                {
+                    "count": 60,
+                    "item": "nails"
+                }
+            ],
+            "ty": "premiumcrowbar"
+        },
+        "premiumkopis": {
+            "category": "1_weapon",
+            "count": 1,
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 38,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 600000,
+                    "item": "log"
+                },
+                {
+                    "count": 50,
+                    "item": "iceball"
+                },
+                {
+                    "count": 800,
+                    "item": "diamond"
+                },
+                {
+                    "count": 1,
+                    "item": "nightmarescythe"
+                }
+            ],
+            "ty": "premiumkopis"
+        },
+        "premiumlongsword": {
+            "category": "1_weapon",
+            "count": 1,
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 37,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 50,
+                    "item": "crystalthreads"
+                },
+                {
+                    "count": 400,
+                    "item": "diamond"
+                },
+                {
+                    "count": 1,
+                    "item": "nightmarescythe"
+                }
+            ],
+            "ty": "premiumlongsword"
+        },
+        "premiumshield": {
+            "category": "3_defense",
+            "count": 1,
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 9,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "magickdust"
+                },
+                {
+                    "count": 500,
+                    "item": "diamond"
+                },
+                {
+                    "count": 300,
+                    "item": "magma"
+                },
+                {
+                    "count": 1,
+                    "item": "deathshield"
+                }
+            ],
+            "ty": "premiumshield"
+        },
+        "propellerhat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 6,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 3000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 3000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "propellerhat"
+        },
+        "ragehat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 15,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 25,
+                    "item": "iceball"
+                },
+                {
+                    "count": 300,
+                    "item": "diamond"
+                }
+            ],
+            "ty": "ragehat"
+        },
+        "reflectshield": {
+            "category": "3_defense",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 6,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 30,
+                    "item": "magickdust"
+                },
+                {
+                    "count": 300,
+                    "item": "diamond"
+                },
+                {
+                    "count": 40,
+                    "item": "crystalthreads"
+                },
+                {
+                    "count": 1,
+                    "item": "deathshield"
+                }
+            ],
+            "ty": "reflectshield"
+        },
+        "regenerationpotion": {
+            "category": "7_potion",
+            "count": 3,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 6,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 3,
+                    "item": "blackfern"
+                },
+                {
+                    "count": 30,
+                    "item": "crystalthreads"
+                },
+                {
+                    "count": 40000,
+                    "item": "snowball"
+                }
+            ],
+            "ty": "regenerationpotion"
+        },
+        "rock": {
+            "category": "9_holidays",
+            "count": 1000,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 14,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1000,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "rock"
+        },
+        "rockethat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 9,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 1200,
+                    "item": "boostpad"
+                },
+                {
+                    "count": 120,
+                    "item": "nails"
+                },
+                {
+                    "count": 1,
+                    "item": "speedhat"
+                }
+            ],
+            "ty": "rockethat"
+        },
+        "rubysword": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 4,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1000000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 1000000,
+                    "item": "rock"
+                },
+                {
+                    "count": 150,
+                    "item": "diamond"
+                },
+                {
+                    "count": 1,
+                    "item": "machete"
+                }
+            ],
+            "ty": "rubysword"
+        },
+        "shooterhat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 7,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 5000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "shooterhat"
+        },
+        "silverkey": {
+            "category": "8_misc",
+            "count": 1,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 17,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 6000,
+                    "item": "tinore"
+                }
+            ],
+            "ty": "silverkey"
+        },
+        "simpleshield": {
+            "category": "3_defense",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 100000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "simpleshield"
+        },
+        "spear": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 17,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 5000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "spear"
+        },
+        "speedhat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 5000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "speedhat"
+        },
+        "spidercore": {
+            "category": "9_holidays",
+            "count": 1,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 11,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 40,
+                    "item": "web"
+                },
+                {
+                    "count": 30,
+                    "item": "dust"
+                },
+                {
+                    "count": 10000,
+                    "item": "cactus"
+                }
+            ],
+            "ty": "spidercore"
+        },
+        "spidersword": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 7,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 180,
+                    "item": "leather"
+                },
+                {
+                    "count": 80,
+                    "item": "spidercore"
+                },
+                {
+                    "count": 500,
+                    "item": "infecteddiamond"
+                },
+                {
+                    "count": 15,
+                    "item": "nightmarescythe"
+                }
+            ],
+            "ty": "spidersword"
+        },
+        "staffofplague": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 27,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 150,
+                    "item": "infecteddiamond"
+                },
+                {
+                    "count": 50,
+                    "item": "ghostthread"
+                },
+                {
+                    "count": 100,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 1,
+                    "item": "goldenbow"
+                }
+            ],
+            "ty": "staffofplague"
+        },
+        "staminapotion": {
+            "category": "7_potion",
+            "count": 3,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 3,
+                    "item": "blackfern"
+                },
+                {
+                    "count": 20,
+                    "item": "astralite"
+                },
+                {
+                    "count": 100,
+                    "item": "dust"
+                }
+            ],
+            "ty": "staminapotion"
+        },
+        "stickypotion": {
+            "category": "7_potion",
+            "count": 5,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 10,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "oil"
+                },
+                {
+                    "count": 5,
+                    "item": "blackfern"
+                }
+            ],
+            "ty": "stickypotion"
+        },
+        "swamppotion": {
+            "category": "7_potion",
+            "count": 3,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 3,
+                    "item": "blackfern"
+                },
+                {
+                    "count": 20,
+                    "item": "bone"
+                },
+                {
+                    "count": 20,
+                    "item": "web"
+                }
+            ],
+            "ty": "swamppotion"
+        },
+        "sword": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 5000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "sword"
+        },
+        "thiefhat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 16,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 60,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 180,
+                    "item": "web"
+                },
+                {
+                    "count": 1,
+                    "item": "bushhat"
+                }
+            ],
+            "ty": "thiefhat"
+        },
+        "throwingknife": {
+            "category": "1_weapon",
+            "count": 10,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 28,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 10000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 10000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "throwingknife"
+        },
+        "thunderwand": {
+            "category": "1_weapon",
+            "count": 1,
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 42,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 50000,
+                    "item": "timeriteore"
+                },
+                {
+                    "count": 300,
+                    "item": "diamond"
+                },
+                {
+                    "count": 600000,
+                    "item": "snowball"
+                },
+                {
+                    "count": 1,
+                    "item": "happyclub"
+                }
+            ],
+            "ty": "thunderwand"
+        },
+        "timeritepickaxe": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 6,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 600,
+                    "item": "diamond"
+                },
+                {
+                    "count": 100,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 1,
+                    "item": "diamondpickaxe"
+                }
+            ],
+            "ty": "timeritepickaxe"
+        },
+        "timeritespear": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 19,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 300,
+                    "item": "diamond"
+                },
+                {
+                    "count": 30000,
+                    "item": "timeriteore"
+                },
+                {
+                    "count": 1,
+                    "item": "darkspear"
+                }
+            ],
+            "ty": "timeritespear"
+        },
+        "tinore": {
+            "category": "9_holidays",
+            "count": 1,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 12,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 60,
+                    "item": "diamond"
+                }
+            ],
+            "ty": "tinore"
+        },
+        "tool": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 15,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 5000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "tool"
+        },
+        "vampirehat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 14,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 300,
+                    "item": "diamond"
+                },
+                {
+                    "count": 150,
+                    "item": "web"
+                },
+                {
+                    "count": 1,
+                    "item": "boneclub"
+                }
+            ],
+            "ty": "vampirehat"
+        },
+        "voidaxepickaxe": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 7,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 150,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 3,
+                    "item": "gatherpotion"
+                },
+                {
+                    "count": 400,
+                    "item": "nails"
+                },
+                {
+                    "count": 1,
+                    "item": "timeritepickaxe"
+                }
+            ],
+            "ty": "voidaxepickaxe"
+        },
+        "webball": {
+            "category": "8_misc",
+            "count": 7,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 22,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 10,
+                    "item": "magicball"
+                },
+                {
+                    "count": 3,
+                    "item": "web"
+                }
+            ],
+            "ty": "webball"
+        },
+        "woodenhammer": {
+            "category": "8_misc",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5000,
+                    "item": "goldore"
+                },
+                {
+                    "count": 5000,
+                    "item": "rock"
+                }
+            ],
+            "ty": "woodenhammer"
+        }
+    }
+}

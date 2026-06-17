@@ -1,0 +1,504 @@
+{
+    "shop": {
+        "bearhat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 4,
+            "premium": "FALSE",
+            "price": 400,
+            "ty": "bearhat"
+        },
+        "bonehat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 7,
+            "premium": "FALSE",
+            "price": 400,
+            "ty": "bonehat"
+        },
+        "bronzecrate": {
+            "category": "9_holidays",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": 100,
+            "ty": "bronzecrate"
+        },
+        "buildingpotion": {
+            "category": "7_potion",
+            "count": 6,
+            "event": "",
+            "locked": "FALSE",
+            "order": 4,
+            "premium": "FALSE",
+            "price": 300,
+            "ty": "buildingpotion"
+        },
+        "chitinbow": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": 400,
+            "ty": "chitinbow"
+        },
+        "christmaswand": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 11,
+            "premium": "FALSE",
+            "price": 500,
+            "ty": "christmaswand"
+        },
+        "crowbar": {
+            "category": "8_misc",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": 150,
+            "ty": "crowbar"
+        },
+        "daemonpotion": {
+            "category": "7_potion",
+            "count": 6,
+            "event": "",
+            "locked": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": 300,
+            "ty": "daemonpotion"
+        },
+        "darkboomerang": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 7,
+            "premium": "FALSE",
+            "price": 300,
+            "ty": "darkboomerang"
+        },
+        "deathshield": {
+            "category": "3_defense",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": 400,
+            "ty": "deathshield"
+        },
+        "diamond": {
+            "category": "9_holidays",
+            "count": 1000,
+            "event": "",
+            "locked": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": 300,
+            "ty": "diamond"
+        },
+        "diamondshield": {
+            "category": "3_defense",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": 500,
+            "ty": "diamondshield"
+        },
+        "electricitykatana": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": 400,
+            "ty": "electricitykatana"
+        },
+        "firepotion": {
+            "category": "7_potion",
+            "count": 9,
+            "event": "",
+            "locked": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": 300,
+            "ty": "firepotion"
+        },
+        "goldencrate": {
+            "category": "9_holidays",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 4,
+            "premium": "FALSE",
+            "price": 800,
+            "ty": "goldencrate"
+        },
+        "goldenhammer": {
+            "category": "8_misc",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": 150,
+            "ty": "goldenhammer"
+        },
+        "goldenhelmet": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 12,
+            "premium": "FALSE",
+            "price": 2000,
+            "ty": "goldenhelmet"
+        },
+        "goldenkatana": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 4,
+            "premium": "FALSE",
+            "price": 400,
+            "ty": "goldenkatana"
+        },
+        "goldenspear": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 6,
+            "premium": "FALSE",
+            "price": 400,
+            "ty": "goldenspear"
+        },
+        "grapplinghook": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 13,
+            "premium": "FALSE",
+            "price": 400,
+            "ty": "grapplinghook"
+        },
+        "grenadefire": {
+            "category": "8_misc",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 6,
+            "premium": "FALSE",
+            "price": 40,
+            "ty": "grenadefire"
+        },
+        "grenadeice": {
+            "category": "8_misc",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 7,
+            "premium": "FALSE",
+            "price": 40,
+            "ty": "grenadeice"
+        },
+        "grenadesticky": {
+            "category": "8_misc",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": 40,
+            "ty": "grenadesticky"
+        },
+        "grenadetoxic": {
+            "category": "8_misc",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": 40,
+            "ty": "grenadetoxic"
+        },
+        "halloweenhat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 10,
+            "premium": "FALSE",
+            "price": 1000,
+            "ty": "halloweenhat"
+        },
+        "happyclub": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 12,
+            "premium": "FALSE",
+            "price": 400,
+            "ty": "happyclub"
+        },
+        "invisiblepotion": {
+            "category": "7_potion",
+            "count": 3,
+            "event": "",
+            "locked": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": 400,
+            "ty": "invisiblepotion"
+        },
+        "mace": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": 400,
+            "ty": "mace"
+        },
+        "magichat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": 300,
+            "ty": "magichat"
+        },
+        "magicwand": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 9,
+            "premium": "FALSE",
+            "price": 500,
+            "ty": "magicwand"
+        },
+        "medicinehat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": 300,
+            "ty": "medicinehat"
+        },
+        "monsterhunterhat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 11,
+            "premium": "FALSE",
+            "price": 600,
+            "ty": "monsterhunterhat"
+        },
+        "nightmarescythe": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": 400,
+            "ty": "nightmarescythe"
+        },
+        "pinkshooterhat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 6,
+            "premium": "FALSE",
+            "price": 400,
+            "ty": "pinkshooterhat"
+        },
+        "ragehat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": 400,
+            "ty": "ragehat"
+        },
+        "reflectshield": {
+            "category": "3_defense",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": 500,
+            "ty": "reflectshield"
+        },
+        "regenerationpotion": {
+            "category": "7_potion",
+            "count": 9,
+            "event": "",
+            "locked": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": 300,
+            "ty": "regenerationpotion"
+        },
+        "rockethat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": 300,
+            "ty": "rockethat"
+        },
+        "silvercrate": {
+            "category": "9_holidays",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": 400,
+            "ty": "silvercrate"
+        },
+        "skinswitcher_random": {
+            "category": "9_holidays",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": 100,
+            "ty": "skinswitcher_random"
+        },
+        "spidersword": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 14,
+            "premium": "FALSE",
+            "price": 2000,
+            "ty": "spidersword"
+        },
+        "staffofplague": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 10,
+            "premium": "FALSE",
+            "price": 500,
+            "ty": "staffofplague"
+        },
+        "staminapotion": {
+            "category": "7_potion",
+            "count": 6,
+            "event": "",
+            "locked": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": 300,
+            "ty": "staminapotion"
+        },
+        "stickypotion": {
+            "category": "7_potion",
+            "count": 30,
+            "event": "",
+            "locked": "FALSE",
+            "order": 7,
+            "premium": "FALSE",
+            "price": 300,
+            "ty": "stickypotion"
+        },
+        "swamppotion": {
+            "category": "7_potion",
+            "count": 20,
+            "event": "",
+            "locked": "FALSE",
+            "order": 6,
+            "premium": "FALSE",
+            "price": 300,
+            "ty": "swamppotion"
+        },
+        "thiefhat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 9,
+            "premium": "FALSE",
+            "price": 400,
+            "ty": "thiefhat"
+        },
+        "timeriteblock": {
+            "category": "8_misc",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 4,
+            "premium": "FALSE",
+            "price": 80,
+            "ty": "timeriteblock"
+        },
+        "timeritespear": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": 400,
+            "ty": "timeritespear"
+        },
+        "vampirehat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": 400,
+            "ty": "vampirehat"
+        },
+        "voidaxepickaxe": {
+            "category": "8_misc",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": 1000,
+            "ty": "voidaxepickaxe"
+        }
+    }
+}

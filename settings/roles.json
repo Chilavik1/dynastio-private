@@ -1,0 +1,39 @@
+{
+  "roles": {
+    "superadmin": ["*"],
+    "moderator": [
+      "give",
+      "kick",
+      "ban",
+      "unban",
+      "spawn_group",
+      "set_coins",
+      "server_state",
+      "give",
+      "clearitems",
+      "cometo",
+      "exp",
+      "nickname",
+      "move",
+      "godmode",
+      "oneshot",
+      "fastbuild",
+      "ignorecollisions",
+      "invisibility",
+      "hide_badge",
+      "lockdown",
+      "release",
+      "item",
+      "speed",
+      "hour",
+      "sysmsg",
+      "unlock",
+      "spawn",
+      "teleport",
+      "resources",
+      "weapons",
+      "shields",
+      "hats"
+    ]
+  }
+}

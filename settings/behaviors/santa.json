@@ -1,0 +1,230 @@
+{
+    "name": "santa",
+    "description": "Santa boss behavior with multi-stage attacks",
+    "tree": {
+        "type": "Select",
+        "children": [
+            {
+                "type": "While",
+                "condition": {
+                    "type": "Action",
+                    "name": "HasAttackTarget"
+                },
+                "body": [
+                    {
+                        "type": "Select",
+                        "children": [
+                            {
+                                "type": "Sequence",
+                                "children": [
+                                    {
+                                        "type": "IsRunning",
+                                        "child": {
+                                            "type": "Action",
+                                            "name": "NeedAOEAttack"
+                                        }
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PrepareAttack"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AOEAttackAnimation"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PreAttackTimeout"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AOEAttackTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AOEBulletSpread"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PrepareAttack"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PreAttackTimeout"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AOEBulletSpread"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PrepareAttack"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PreAttackTimeout"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AOEBulletSpread"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PostAttackTimeout"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "Sequence",
+                                "children": [
+                                    {
+                                        "type": "Action",
+                                        "name": "PrepareAttack"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "MoveToAttackTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AttackAnimation"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PreAttackTimeout"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AttackTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PrepareAttack"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "LookOnTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AttackAnimation"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PreAttackTimeout"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AttackTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PrepareAttack"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "LookOnTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AttackAnimation"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PreAttackTimeout"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AttackTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PrepareAttack"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "LookOnTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AttackAnimation"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PreAttackTimeout"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AttackTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PrepareAttack"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "LookOnTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AttackAnimation"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PreAttackTimeout"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AttackTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PrepareAttack"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PostAttackTimeout"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PrepareAttack"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PostAttackTimeout"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "While",
+                "condition": {
+                    "type": "Action",
+                    "name": "HasNotAttackTarget"
+                },
+                "body": [
+                    {
+                        "type": "Sequence",
+                        "children": [
+                            {
+                                "type": "Action",
+                                "name": "PrepareFreeState"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "MoveFreeState"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "WaitFreeState"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

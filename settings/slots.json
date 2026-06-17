@@ -1,0 +1,2154 @@
+{
+    "casino": {
+        "max_changes": 50,
+        "max_set_count": 8,
+        "min_changes": 40,
+        "min_set_count": 6,
+        "premium_price": 100,
+        "premium_sets": [
+            {
+                "count": 35,
+                "durability": 1,
+                "item_type": "arrow",
+                "price": 114
+            },
+            {
+                "count": 75,
+                "durability": 1,
+                "item_type": "arrow",
+                "price": 191
+            },
+            {
+                "count": 25,
+                "durability": 1,
+                "item_type": "fireball",
+                "price": 94
+            },
+            {
+                "count": 50,
+                "durability": 1,
+                "item_type": "fireball",
+                "price": 143
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "phantomarrow",
+                "price": 148
+            },
+            {
+                "count": 25,
+                "durability": 1,
+                "item_type": "phantomarrow",
+                "price": 301
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "goldenvikingaxe",
+                "price": 337
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "nightmaresuriken",
+                "price": 395
+            },
+            {
+                "count": 40,
+                "durability": 1,
+                "item_type": "nightmaresuriken",
+                "price": 511
+            },
+            {
+                "count": 70,
+                "durability": 1,
+                "item_type": "nightmaresuriken",
+                "price": 860
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "machete",
+                "price": 531
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "darkboomerang",
+                "price": 1016
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "fireballweapon",
+                "price": 628
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "lasersword",
+                "price": 725
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "rubysword",
+                "price": 744
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "spit",
+                "price": 744
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "dirtyfryingpane",
+                "price": 1210
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "healwand",
+                "price": 919
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "electricitykatana",
+                "price": 1404
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "grapplinghook",
+                "price": 1307
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "deathshield",
+                "price": 434
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "spidershield",
+                "price": 579
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "reflectshield",
+                "price": 1307
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "pumpkinhat",
+                "price": 288
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "pilothat",
+                "price": 482
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "rockethat",
+                "price": 822
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "monsterhunterhat",
+                "price": 579
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "pinkshooterhat",
+                "price": 1355
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "magichat",
+                "price": 628
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "eaglehat",
+                "price": 725
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "spiderhat",
+                "price": 1404
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "goldenhelmet",
+                "price": 1986
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "goldenkey",
+                "price": 240
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "goldenkey",
+                "price": 555
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "silverkey",
+                "price": 191
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "silverkey",
+                "price": 424
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "bronzekey",
+                "price": 118
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "bronzekey",
+                "price": 264
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "bronzecrate",
+                "price": 75
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "goldencrate",
+                "price": 104
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "silvercrate",
+                "price": 104
+            },
+            {
+                "count": 2,
+                "durability": 1,
+                "item_type": "stickypotion",
+                "price": 114
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "stickypotion",
+                "price": 133
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "stickypotion",
+                "price": 288
+            },
+            {
+                "count": 2,
+                "durability": 1,
+                "item_type": "droppotion",
+                "price": 191
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "buildingpotion",
+                "price": 177
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "cactuspotion",
+                "price": 133
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "christmaspotion",
+                "price": 191
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "daemonpotion",
+                "price": 220
+            },
+            {
+                "count": 2,
+                "durability": 1,
+                "item_type": "experiencepotion",
+                "price": 191
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "gatherpotion",
+                "price": 220
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "polarpotion",
+                "price": 235
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "regenerationpotion",
+                "price": 249
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "staminapotion",
+                "price": 249
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "invisiblepotion",
+                "price": 628
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "powder",
+                "price": 104
+            },
+            {
+                "count": 50,
+                "durability": 1,
+                "item_type": "snowball",
+                "price": 181
+            },
+            {
+                "count": 25,
+                "durability": 1,
+                "item_type": "iceball",
+                "price": 123
+            },
+            {
+                "count": 50,
+                "durability": 1,
+                "item_type": "iceball",
+                "price": 186
+            },
+            {
+                "count": 300,
+                "durability": 1,
+                "item_type": "log",
+                "price": 86
+            },
+            {
+                "count": 600,
+                "durability": 1,
+                "item_type": "log",
+                "price": 127
+            },
+            {
+                "count": 300,
+                "durability": 1,
+                "item_type": "rock",
+                "price": 86
+            },
+            {
+                "count": 600,
+                "durability": 1,
+                "item_type": "rock",
+                "price": 127
+            },
+            {
+                "count": 200,
+                "durability": 1,
+                "item_type": "cactus",
+                "price": 80
+            },
+            {
+                "count": 450,
+                "durability": 1,
+                "item_type": "cactus",
+                "price": 122
+            },
+            {
+                "count": 200,
+                "durability": 1,
+                "item_type": "goldore",
+                "price": 131
+            },
+            {
+                "count": 500,
+                "durability": 1,
+                "item_type": "goldore",
+                "price": 259
+            },
+            {
+                "count": 750,
+                "durability": 1,
+                "item_type": "goldore",
+                "price": 315
+            },
+            {
+                "count": 300,
+                "durability": 1,
+                "item_type": "meat",
+                "price": 264
+            },
+            {
+                "count": 100,
+                "durability": 1,
+                "item_type": "diamond",
+                "price": 240
+            },
+            {
+                "count": 250,
+                "durability": 1,
+                "item_type": "diamond",
+                "price": 482
+            },
+            {
+                "count": 300,
+                "durability": 1,
+                "item_type": "feather",
+                "price": 409
+            },
+            {
+                "count": 80,
+                "durability": 1,
+                "item_type": "darkmatter",
+                "price": 286
+            },
+            {
+                "count": 150,
+                "durability": 1,
+                "item_type": "darkmatter",
+                "price": 482
+            },
+            {
+                "count": 50,
+                "durability": 1,
+                "item_type": "fur",
+                "price": 191
+            },
+            {
+                "count": 150,
+                "durability": 1,
+                "item_type": "fur",
+                "price": 453
+            },
+            {
+                "count": 50,
+                "durability": 1,
+                "item_type": "dust",
+                "price": 131
+            },
+            {
+                "count": 150,
+                "durability": 1,
+                "item_type": "dust",
+                "price": 301
+            },
+            {
+                "count": 200,
+                "durability": 1,
+                "item_type": "web",
+                "price": 240
+            },
+            {
+                "count": 300,
+                "durability": 1,
+                "item_type": "web",
+                "price": 337
+            },
+            {
+                "count": 100,
+                "durability": 1,
+                "item_type": "timeriteore",
+                "price": 725
+            },
+            {
+                "count": 250,
+                "durability": 1,
+                "item_type": "timeriteore",
+                "price": 1064
+            },
+            {
+                "count": 100,
+                "durability": 1,
+                "item_type": "deadlog",
+                "price": 531
+            },
+            {
+                "count": 300,
+                "durability": 1,
+                "item_type": "deadlog",
+                "price": 977
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "chitin",
+                "price": 133
+            },
+            {
+                "count": 50,
+                "durability": 1,
+                "item_type": "chitin",
+                "price": 482
+            },
+            {
+                "count": 100,
+                "durability": 1,
+                "item_type": "chitin",
+                "price": 919
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "blackfern",
+                "price": 152
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "blackfern",
+                "price": 259
+            },
+            {
+                "count": 100,
+                "durability": 1,
+                "item_type": "blackfern",
+                "price": 1501
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "oil",
+                "price": 395
+            },
+            {
+                "count": 50,
+                "durability": 1,
+                "item_type": "oil",
+                "price": 628
+            },
+            {
+                "count": 100,
+                "durability": 1,
+                "item_type": "oil",
+                "price": 1016
+            },
+            {
+                "count": 50,
+                "durability": 1,
+                "item_type": "ghostthread",
+                "price": 531
+            },
+            {
+                "count": 100,
+                "durability": 1,
+                "item_type": "ghostthread",
+                "price": 1016
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "daemonsword",
+                "price": 1792
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "daemonknife",
+                "price": 337
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "polarbow",
+                "price": 1307
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "polarsword",
+                "price": 1501
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "voidspear",
+                "price": 1986
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "halloweensword",
+                "price": 1307
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "buffalohat",
+                "price": 822
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "cactussword",
+                "price": 870
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "spidersword",
+                "price": 8776
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "magicball",
+                "price": 288
+            },
+            {
+                "count": 50,
+                "durability": 1,
+                "item_type": "magicball",
+                "price": 1016
+            },
+            {
+                "count": 100,
+                "durability": 1,
+                "item_type": "magicball",
+                "price": 1501
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "nightmareshield",
+                "price": 2762
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "polarshield",
+                "price": 1889
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "halloweenshield",
+                "price": 1501
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "daemonshield",
+                "price": 1792
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "cactusshield",
+                "price": 1016
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "christmasshield",
+                "price": 1501
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "premiumshield",
+                "price": 8485
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "iceshield",
+                "price": 8776
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "claws",
+                "price": 143
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "suriken",
+                "price": 143
+            },
+            {
+                "count": 25,
+                "durability": 1,
+                "item_type": "suriken",
+                "price": 264
+            },
+            {
+                "count": 100,
+                "durability": 1,
+                "item_type": "suriken",
+                "price": 531
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "boomerang",
+                "price": 240
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "fryingpane",
+                "price": 288
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "batwithnails",
+                "price": 337
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "chromeboneclub",
+                "price": 240
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "redsword",
+                "price": 288
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "ironclub",
+                "price": 482
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "mace",
+                "price": 385
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "icewand",
+                "price": 1986
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "spiderwand",
+                "price": 1501
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "magicwand",
+                "price": 6351
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "phantombow",
+                "price": 3926
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "nightmarescythe",
+                "price": 2180
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "staffofplague",
+                "price": 10231
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "premiumlongsword",
+                "price": 8776
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "premiumkopis",
+                "price": 8291
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "kunai",
+                "price": 288
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "kunai",
+                "price": 628
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "acidwand",
+                "price": 7806
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "acidball",
+                "price": 531
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "thunderwand",
+                "price": 8776
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "harpoon",
+                "price": 8776
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "spideregg",
+                "price": 482
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "premiumbow",
+                "price": 8291
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "moneyhat",
+                "price": 8776
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "disguisehat",
+                "price": 8291
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "illusionhat",
+                "price": 7806
+            },
+            {
+                "count": 5,
+                "durability": 1,
+                "item_type": "improvedstickypotion",
+                "price": 531
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "improvedstickypotion",
+                "price": 967
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "improvedstickypotion",
+                "price": 1501
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "axepickaxe",
+                "price": 7321
+            },
+            {
+                "count": 5,
+                "durability": 1,
+                "item_type": "skinswitcher_random",
+                "price": 288
+            },
+            {
+                "count": 50,
+                "durability": 1,
+                "item_type": "coin",
+                "price": 143
+            },
+            {
+                "count": 100,
+                "durability": 1,
+                "item_type": "coin",
+                "price": 240
+            },
+            {
+                "count": 500,
+                "durability": 1,
+                "item_type": "coin",
+                "price": 1016
+            },
+            {
+                "count": 1000,
+                "durability": 1,
+                "item_type": "coin",
+                "price": 1986
+            },
+            {
+                "count": 5000,
+                "durability": 1,
+                "item_type": "coin",
+                "price": 9746
+            },
+            {
+                "count": 10000,
+                "durability": 1,
+                "item_type": "coin",
+                "price": 19446
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "timeriteblock",
+                "price": 482
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "sniperhat",
+                "price": 1064
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "polarhat",
+                "price": 1598
+            },
+            {
+                "count": 15,
+                "durability": 1,
+                "item_type": "lollipop",
+                "price": 700
+            },
+            {
+                "count": 25,
+                "durability": 1,
+                "item_type": "lollipop",
+                "price": 1016
+            },
+            {
+                "count": 50,
+                "durability": 1,
+                "item_type": "lollipop",
+                "price": 1501
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "icespear",
+                "price": 1986
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "polarbombpotion",
+                "price": 249
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "halloweenhat",
+                "price": 2471
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "halloweenpotion",
+                "price": 264
+            },
+            {
+                "count": 5,
+                "durability": 1,
+                "item_type": "iodinepotion",
+                "price": 167
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "cactushook",
+                "price": 1501
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "lightwand",
+                "price": 1986
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "premiumcrowbar",
+                "price": 240
+            }
+        ],
+        "prepare_timeout": 1,
+        "price": 10,
+        "result_timeout": 2,
+        "sets": [
+            {
+                "count": 6,
+                "durability": 1,
+                "item_type": "arrow",
+                "price": 86
+            },
+            {
+                "count": 12,
+                "durability": 1,
+                "item_type": "arrow",
+                "price": 121
+            },
+            {
+                "count": 16,
+                "durability": 1,
+                "item_type": "arrow",
+                "price": 144
+            },
+            {
+                "count": 15,
+                "durability": 1,
+                "item_type": "fireball",
+                "price": 80
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "fireball",
+                "price": 90
+            },
+            {
+                "count": 25,
+                "durability": 1,
+                "item_type": "fireball",
+                "price": 100
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "phantomarrow",
+                "price": 64
+            },
+            {
+                "count": 2,
+                "durability": 1,
+                "item_type": "phantomarrow",
+                "price": 76
+            },
+            {
+                "count": 4,
+                "durability": 1,
+                "item_type": "phantomarrow",
+                "price": 100
+            },
+            {
+                "count": 6,
+                "durability": 1,
+                "item_type": "phantomarrow",
+                "price": 124
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "goldenvikingaxe",
+                "price": 536
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "nightmaresuriken",
+                "price": 65
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "nightmaresuriken",
+                "price": 323
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "nightmaresuriken",
+                "price": 459
+            },
+            {
+                "count": 40,
+                "durability": 1,
+                "item_type": "nightmaresuriken",
+                "price": 594
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "machete",
+                "price": 827
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "darkboomerang",
+                "price": 1021
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "fireballweapon",
+                "price": 1215
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "lasersword",
+                "price": 1312
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "rubysword",
+                "price": 1312
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "spit",
+                "price": 1409
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "dirtyfryingpane",
+                "price": 1506
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "healwand",
+                "price": 1603
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "electricitykatana",
+                "price": 1894
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "grapplinghook",
+                "price": 1991
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "deathshield",
+                "price": 827
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "spidershield",
+                "price": 1021
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "reflectshield",
+                "price": 1797
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "pumpkinhat",
+                "price": 342
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "cowhat",
+                "price": 342
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "pilothat",
+                "price": 827
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "rockethat",
+                "price": 1021
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "monsterhunterhat",
+                "price": 1312
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "pinkshooterhat",
+                "price": 1797
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "magichat",
+                "price": 1991
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "eaglehat",
+                "price": 1991
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "spiderhat",
+                "price": 2399
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "goldenhelmet",
+                "price": 2961
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "goldenkey",
+                "price": 1021
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "silverkey",
+                "price": 536
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "bronzekey",
+                "price": 148
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "bronzecrate",
+                "price": 66
+            },
+            {
+                "count": 2,
+                "durability": 1,
+                "item_type": "bronzecrate",
+                "price": 71
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "bronzecrate",
+                "price": 80
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "goldencrate",
+                "price": 73
+            },
+            {
+                "count": 2,
+                "durability": 1,
+                "item_type": "goldencrate",
+                "price": 90
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "goldencrate",
+                "price": 109
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "silvercrate",
+                "price": 66
+            },
+            {
+                "count": 2,
+                "durability": 1,
+                "item_type": "silvercrate",
+                "price": 80
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "silvercrate",
+                "price": 109
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "stickypotion",
+                "price": 100
+            },
+            {
+                "count": 2,
+                "durability": 1,
+                "item_type": "stickypotion",
+                "price": 148
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "stickypotion",
+                "price": 197
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "invisiblepotion",
+                "price": 633
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "ball",
+                "price": 61
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "powder",
+                "price": 71
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "snowball",
+                "price": 78
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "iceball",
+                "price": 82
+            },
+            {
+                "count": 100,
+                "durability": 1,
+                "item_type": "log",
+                "price": 65
+            },
+            {
+                "count": 150,
+                "durability": 1,
+                "item_type": "log",
+                "price": 72
+            },
+            {
+                "count": 200,
+                "durability": 1,
+                "item_type": "log",
+                "price": 78
+            },
+            {
+                "count": 100,
+                "durability": 1,
+                "item_type": "rock",
+                "price": 65
+            },
+            {
+                "count": 150,
+                "durability": 1,
+                "item_type": "rock",
+                "price": 72
+            },
+            {
+                "count": 200,
+                "durability": 1,
+                "item_type": "rock",
+                "price": 78
+            },
+            {
+                "count": 100,
+                "durability": 1,
+                "item_type": "cactus",
+                "price": 69
+            },
+            {
+                "count": 150,
+                "durability": 1,
+                "item_type": "cactus",
+                "price": 76
+            },
+            {
+                "count": 200,
+                "durability": 1,
+                "item_type": "cactus",
+                "price": 85
+            },
+            {
+                "count": 100,
+                "durability": 1,
+                "item_type": "goldore",
+                "price": 94
+            },
+            {
+                "count": 150,
+                "durability": 1,
+                "item_type": "goldore",
+                "price": 115
+            },
+            {
+                "count": 200,
+                "durability": 1,
+                "item_type": "goldore",
+                "price": 137
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "meat",
+                "price": 66
+            },
+            {
+                "count": 25,
+                "durability": 1,
+                "item_type": "meat",
+                "price": 70
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "meat",
+                "price": 74
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "diamond",
+                "price": 54
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "diamond",
+                "price": 109
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "diamond",
+                "price": 139
+            },
+            {
+                "count": 40,
+                "durability": 1,
+                "item_type": "diamond",
+                "price": 168
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "feather",
+                "price": 52
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "feather",
+                "price": 76
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "feather",
+                "price": 88
+            },
+            {
+                "count": 40,
+                "durability": 1,
+                "item_type": "feather",
+                "price": 100
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "darkmatter",
+                "price": 55
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "darkmatter",
+                "price": 87
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "darkmatter",
+                "price": 123
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "darkmatter",
+                "price": 159
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "fur",
+                "price": 54
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "fur",
+                "price": 80
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "fur",
+                "price": 109
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "fur",
+                "price": 139
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "bone",
+                "price": 53
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "bone",
+                "price": 69
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "bone",
+                "price": 85
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "bone",
+                "price": 103
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "dust",
+                "price": 53
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "dust",
+                "price": 69
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "dust",
+                "price": 85
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "dust",
+                "price": 103
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "web",
+                "price": 52
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "web",
+                "price": 61
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "web",
+                "price": 71
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "web",
+                "price": 80
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "timeriteore",
+                "price": 58
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "timeriteore",
+                "price": 119
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "timeriteore",
+                "price": 187
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "timeriteore",
+                "price": 255
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "deadlog",
+                "price": 57
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "deadlog",
+                "price": 105
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "deadlog",
+                "price": 158
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "deadlog",
+                "price": 211
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "chitin",
+                "price": 60
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "chitin",
+                "price": 139
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "chitin",
+                "price": 226
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "chitin",
+                "price": 313
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "blackfern",
+                "price": 62
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "blackfern",
+                "price": 158
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "blackfern",
+                "price": 265
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "blackfern",
+                "price": 371
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "oil",
+                "price": 63
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "oil",
+                "price": 168
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "oil",
+                "price": 284
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "oil",
+                "price": 400
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "ghostthread",
+                "price": 66
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "ghostthread",
+                "price": 197
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "ghostthread",
+                "price": 342
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "ghostthread",
+                "price": 488
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "daemonsword",
+                "price": 2961
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "daemonknife",
+                "price": 1991
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "polarbow",
+                "price": 1506
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "polarsword",
+                "price": 1991
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "voidspear",
+                "price": 2961
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "halloweensword",
+                "price": 1991
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "buffalohat",
+                "price": 1021
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "cactussword",
+                "price": 1021
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "spidersword",
+                "price": 9751
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "magicball",
+                "price": 1021
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "nightmareshield",
+                "price": 2961
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "polarshield",
+                "price": 2476
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "halloweenshield",
+                "price": 2476
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "daemonshield",
+                "price": 2961
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "cactusshield",
+                "price": 1021
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "christmasshield",
+                "price": 2476
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "premiumshield",
+                "price": 9751
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "iceshield",
+                "price": 9751
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "claws",
+                "price": 148
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "suriken",
+                "price": 245
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "boomerang",
+                "price": 245
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "fryingpane",
+                "price": 342
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "batwithnails",
+                "price": 391
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "chromeboneclub",
+                "price": 439
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "redsword",
+                "price": 536
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "ironclub",
+                "price": 633
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "mace",
+                "price": 633
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "icewand",
+                "price": 2961
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "spiderwand",
+                "price": 2961
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "magicwand",
+                "price": 7811
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "phantombow",
+                "price": 4901
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "nightmarescythe",
+                "price": 2961
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "premiumlongsword",
+                "price": 14601
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "premiumkopis",
+                "price": 14601
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "kunai",
+                "price": 1991
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "acidwand",
+                "price": 14601
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "acidball",
+                "price": 1991
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "thunderwand",
+                "price": 14601
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "harpoon",
+                "price": 14601
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "spideregg",
+                "price": 2961
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "premiumbow",
+                "price": 14601
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "moneyhat",
+                "price": 14601
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "disguisehat",
+                "price": 14601
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "illusionhat",
+                "price": 14601
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "improvedstickypotion",
+                "price": 536
+            },
+            {
+                "count": 2,
+                "durability": 1,
+                "item_type": "improvedstickypotion",
+                "price": 1021
+            },
+            {
+                "count": 3,
+                "durability": 1,
+                "item_type": "improvedstickypotion",
+                "price": 1506
+            },
+            {
+                "count": 1,
+                "durability": 1,
+                "item_type": "axepickaxe",
+                "price": 9751
+            },
+            {
+                "count": 5,
+                "durability": 1,
+                "item_type": "skinswitcher_random",
+                "price": 294
+            },
+            {
+                "count": 5,
+                "durability": 1,
+                "item_type": "coin",
+                "price": 59
+            },
+            {
+                "count": 10,
+                "durability": 1,
+                "item_type": "coin",
+                "price": 80
+            },
+            {
+                "count": 15,
+                "durability": 1,
+                "item_type": "coin",
+                "price": 80
+            },
+            {
+                "count": 20,
+                "durability": 1,
+                "item_type": "coin",
+                "price": 90
+            },
+            {
+                "count": 25,
+                "durability": 1,
+                "item_type": "coin",
+                "price": 100
+            },
+            {
+                "count": 30,
+                "durability": 1,
+                "item_type": "coin",
+                "price": 109
+            },
+            {
+                "count": 50,
+                "durability": 1,
+                "item_type": "coin",
+                "price": 148
+            },
+            {
+                "count": 100,
+                "durability": 1,
+                "item_type": "coin",
+                "price": 245
+            },
+            {
+                "count": 500,
+                "durability": 1,
+                "item_type": "coin",
+                "price": 1021
+            },
+            {
+                "count": 1000,
+                "durability": 1,
+                "item_type": "coin",
+                "price": 1991
+            },
+            {
+                "count": 5000,
+                "durability": 1,
+                "item_type": "coin",
+                "price": 9751
+            },
+            {
+                "count": 10000,
+                "durability": 1,
+                "item_type": "coin",
+                "price": 19451
+            }
+        ],
+        "sin_base": 0.4,
+        "sin_scale": 0.3
+    }
+}

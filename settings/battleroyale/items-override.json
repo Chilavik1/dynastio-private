@@ -1,0 +1,358 @@
+{
+  "items": {
+    "axe": {
+      "durability": 100
+    },
+    "battlefan": {
+      "durability": 120
+    },
+    "batwithnails": {
+      "durability": 70
+    },
+    "boneclub": {
+      "durability": 30
+    },
+    "boomerang": {
+      "durability": 20
+    },
+    "cactusweapon": {
+      "durability": 50,
+      "item_action": {
+        "weight": 0.2
+      }
+    },
+    "chitinbow": {
+      "durability": 105
+    },
+    "christmasshield": {
+      "durability": 100
+    },
+    "chromeboneclub": {
+      "durability": 75
+    },
+    "claws": {
+      "durability": 35
+    },
+    "club": {
+      "durability": 40
+    },
+    "coppershield": {
+      "durability": 50
+    },
+    "copperspear": {
+      "durability": 30
+    },
+    "daemonknife": {
+      "durability": 100
+    },
+    "darkshield": {
+      "durability": 85
+    },
+    "darkspear": {
+      "durability": 60
+    },
+    "darksword": {
+      "durability": 65
+    },
+    "deathscythe": {
+      "durability": 45
+    },
+    "deathshield": {
+      "durability": 95
+    },
+    "diamondshield": {
+      "durability": 150
+    },
+    "dirtyfryingpane": {
+      "durability": 75
+    },
+    "electricitykatana": {
+      "durability": 55
+    },
+    "fryingpane": {
+      "durability": 120
+    },
+    "goldenbow": {
+      "durability": 80
+    },
+    "goldenhammer": {
+      "durability": 100
+    },
+    "goldenkatana": {
+      "durability": 170
+    },
+    "goldenpickaxe": {
+      "durability": 150
+    },
+    "goldenshield": {
+      "durability": 100
+    },
+    "goldenspear": {
+      "durability": 70
+    },
+    "goldensword": {
+      "durability": 85
+    },
+    "goldenvikingaxe": {
+      "durability": 45
+    },
+    "grapplinghook": {
+      "durability": 100
+    },
+    "guardarcherweapon": {
+      "durability": 100
+    },
+    "guardweapon": {
+      "durability": 100
+    },
+    "halloweenshield": {
+      "durability": 100
+    },
+    "halloweensword": {
+      "durability": 500,
+      "item_action": {
+        "damage": 0,
+        "stamina": 15
+      }
+    },
+    "hammer": {
+      "durability": 30
+    },
+    "hand": {
+      "durability": 100
+    },
+    "happyclub": {
+      "durability": 100
+    },
+    "harpoon": {
+      "durability": 100
+    },
+    "healwand": {
+      "durability": 100
+    },
+    "heraldicshield": {
+      "durability": 100
+    },
+    "hermitcrabweapon": {
+      "durability": 100
+    },
+    "iceshield": {
+      "durability": 100
+    },
+    "icewand": {
+      "durability": 100
+    },
+    "ironclub": {
+      "durability": 60
+    },
+    "katana": {
+      "durability": 120
+    },
+    "lasersword": {
+      "durability": 50
+    },
+    "mace": {
+      "durability": 25
+    },
+    "machete": {
+      "durability": 40
+    },
+    "magicwand": {
+      "durability": 100
+    },
+    "mercenaryweapon": {
+      "durability": 100
+    },
+    "molochweapon": {
+      "durability": 100
+    },
+    "moonward": {
+      "durability": 100
+    },
+    "murderer": {
+      "durability": 100
+    },
+    "nightmarescythe": {
+      "durability": 60
+    },
+    "nightmareshield": {
+      "durability": 115
+    },
+    "nightmaresuriken": {
+      "durability": 100
+    },
+    "nightmareweapon": {
+      "durability": 100
+    },
+    "phantombow": {
+      "durability": 100
+    },
+    "phantomshield": {
+      "durability": 125
+    },
+    "phantomtowerweapon": {
+      "durability": 100
+    },
+    "pickaxe": {
+      "durability": 50
+    },
+    "polarbow": {
+      "durability": 100
+    },
+    "polarshield": {
+      "durability": 100
+    },
+    "polarsword": {
+      "durability": 100
+    },
+    "premiumkopis": {
+      "durability": 100
+    },
+    "premiumlongsword": {
+      "durability": 100
+    },
+    "premiumshield": {
+      "durability": 100
+    },
+    "redspiderweapon": {
+      "durability": 100
+    },
+    "redsword": {
+      "durability": 35
+    },
+    "reflectshield": {
+      "durability": 60
+    },
+    "rubysword": {
+      "durability": 50
+    },
+    "santaweapon": {
+      "durability": 100
+    },
+    "shadowweapon": {
+      "durability": 100
+    },
+    "simpleshield": {
+      "durability": 30
+    },
+    "skeletonweapon": {
+      "durability": 100
+    },
+    "slimeweapon": {
+      "durability": 100
+    },
+    "snowballtowerweapon": {
+      "durability": 100
+    },
+    "snowmanweapon": {
+      "durability": 100
+    },
+    "spear": {
+      "durability": 100
+    },
+    "spidermotherweapon": {
+      "durability": 100
+    },
+    "spidershield": {
+      "durability": 60
+    },
+    "spidersword": {
+      "durability": 100
+    },
+    "spidertowerweapon": {
+      "durability": 100
+    },
+    "spiderwand": {
+      "durability": 100
+    },
+    "spiderweapon": {
+      "durability": 100
+    },
+    "spikeshield": {
+      "durability": 45
+    },
+    "spit": {
+      "durability": 40
+    },
+    "staffofplague": {
+      "durability": 100
+    },
+    "stonearchertowerweapon": {
+      "durability": 100
+    },
+    "suriken": {
+      "grade": 4,
+      "item_action": {
+        "bullet_speed": 14,
+        "distance": 12,
+        "stamina": 6
+      }
+    },
+    "swampmonsterweapon": {
+      "durability": 100
+    },
+    "swampwormweapon": {
+      "durability": 100
+    },
+    "sword": {
+      "durability": 30
+    },
+    "thunderwand": {
+      "durability": 100
+    },
+    "timeriteaxe": {
+      "durability": 100
+    },
+    "timeritepickaxe": {
+      "durability": 100
+    },
+    "timeriteshield": {
+      "durability": 100
+    },
+    "timeritespear": {
+      "durability": 45
+    },
+    "timeritesword": {
+      "durability": 55
+    },
+    "tool": {
+      "durability": 100
+    },
+    "tortoiseweapon": {
+      "durability": 100
+    },
+    "vikingaxe": {
+      "durability": 25
+    },
+    "voidaxepickaxe": {
+      "durability": 100
+    },
+    "voidshield": {
+      "durability": 100
+    },
+    "voidspear": {
+      "durability": 100
+    },
+    "wallbreakershield": {
+      "durability": 100
+    },
+    "wallbreakerweapon": {
+      "durability": 100
+    },
+    "werewolfweapon": {
+      "durability": 100
+    },
+    "whitebearweapon": {
+      "durability": 100
+    },
+    "wolfweapon": {
+      "durability": 100
+    },
+    "woodenhammer": {
+      "durability": 25
+    },
+    "zombieweapon": {
+      "durability": 100
+    }
+  }
+}

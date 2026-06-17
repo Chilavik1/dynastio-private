@@ -1,0 +1,1423 @@
+{
+    "craft": {
+        "acidball": {
+            "category": "1_weapon",
+            "count": 4,
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 4,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "darkmatter"
+                }
+            ],
+            "ty": "acidball"
+        },
+        "acidwand": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 3,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 700,
+                    "item": "log"
+                },
+                {
+                    "count": 300,
+                    "item": "bone"
+                },
+                {
+                    "count": 60,
+                    "item": "darkmatter"
+                }
+            ],
+            "ty": "acidwand"
+        },
+        "arrow": {
+            "category": "1_weapon",
+            "count": 1,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 22,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 2,
+                    "item": "log"
+                },
+                {
+                    "count": 2,
+                    "item": "feather"
+                }
+            ],
+            "ty": "arrow"
+        },
+        "axe": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 10,
+                    "item": "log"
+                },
+                {
+                    "count": 10,
+                    "item": "rock"
+                }
+            ],
+            "ty": "axe"
+        },
+        "axepickaxe": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 2,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "goldore"
+                },
+                {
+                    "count": 80,
+                    "item": "diamond"
+                }
+            ],
+            "ty": "axepickaxe"
+        },
+        "baseballhat": {
+            "category": "6_hats",
+            "level": 3,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 10,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 10,
+                    "item": "cactus"
+                },
+                {
+                    "count": 10,
+                    "item": "web"
+                },
+                {
+                    "count": 10,
+                    "item": "fur"
+                }
+            ],
+            "ty": "baseballhat"
+        },
+        "batwithnails": {
+            "category": "1_weapon",
+            "level": 17,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 35,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 300,
+                    "item": "log"
+                },
+                {
+                    "count": 300,
+                    "item": "goldore"
+                },
+                {
+                    "count": 200,
+                    "item": "darkmatter"
+                }
+            ],
+            "ty": "batwithnails"
+        },
+        "bearhat": {
+            "category": "6_hats",
+            "level": 2,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 9,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 300,
+                    "item": "fur"
+                }
+            ],
+            "ty": "bearhat"
+        },
+        "boneclub": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 20,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1,
+                    "item": "club"
+                },
+                {
+                    "count": 10,
+                    "item": "bone"
+                }
+            ],
+            "ty": "boneclub"
+        },
+        "bonehat": {
+            "category": "6_hats",
+            "level": 24,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 19,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "bone"
+                }
+            ],
+            "ty": "bonehat"
+        },
+        "boomerang": {
+            "category": "1_weapon",
+            "level": 17,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 35,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "dust"
+                }
+            ],
+            "ty": "boomerang"
+        },
+        "boostpad": {
+            "category": "1_weapon",
+            "level": 10,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 18,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 80,
+                    "item": "goldore"
+                },
+                {
+                    "count": 5,
+                    "item": "dust"
+                }
+            ],
+            "ty": "boostpad"
+        },
+        "bow": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 21,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 10,
+                    "item": "log"
+                },
+                {
+                    "count": 10,
+                    "item": "goldore"
+                },
+                {
+                    "count": 20,
+                    "item": "web"
+                }
+            ],
+            "ty": "bow"
+        },
+        "bushhat": {
+            "category": "6_hats",
+            "level": 4,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 11,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 150,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "bushhat"
+        },
+        "cactushat": {
+            "category": "6_hats",
+            "level": 7,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 13,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "cactus"
+                },
+                {
+                    "count": 50,
+                    "item": "web"
+                }
+            ],
+            "ty": "cactushat"
+        },
+        "cactusweapon": {
+            "category": "1_weapon",
+            "level": 6,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 26,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "cactus"
+                },
+                {
+                    "count": 100,
+                    "item": "bone"
+                }
+            ],
+            "ty": "cactusweapon"
+        },
+        "club": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 10,
+                    "item": "log"
+                }
+            ],
+            "ty": "club"
+        },
+        "crowbar": {
+            "category": "1_weapon",
+            "level": 7,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 14,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "rock"
+                },
+                {
+                    "count": 10,
+                    "item": "bone"
+                }
+            ],
+            "ty": "crowbar"
+        },
+        "crownhat": {
+            "category": "6_hats",
+            "level": 42,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 22,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1000,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "crownhat"
+        },
+        "darkboomerang": {
+            "category": "1_weapon",
+            "level": 17,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 35,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 500,
+                    "item": "darkmatter"
+                }
+            ],
+            "ty": "darkboomerang"
+        },
+        "darkshield": {
+            "category": "3_defense",
+            "level": 8,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 10,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 200,
+                    "item": "darkmatter"
+                }
+            ],
+            "ty": "darkshield"
+        },
+        "darkspear": {
+            "category": "1_weapon",
+            "level": 12,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 34,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1,
+                    "item": "spear"
+                },
+                {
+                    "count": 50,
+                    "item": "darkmatter"
+                }
+            ],
+            "ty": "darkspear"
+        },
+        "darksword": {
+            "category": "1_weapon",
+            "level": 11,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 33,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 300,
+                    "item": "darkmatter"
+                }
+            ],
+            "ty": "darksword"
+        },
+        "darkthrowingknife": {
+            "category": "1_weapon",
+            "count": 1,
+            "level": 18,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 36,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 10,
+                    "item": "diamond"
+                }
+            ],
+            "ty": "darkthrowingknife"
+        },
+        "diamondaxe": {
+            "category": "1_weapon",
+            "level": 20,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 20,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "diamond"
+                },
+                {
+                    "count": 1,
+                    "item": "goldenaxe"
+                }
+            ],
+            "ty": "diamondaxe"
+        },
+        "diamondpickaxe": {
+            "category": "1_weapon",
+            "level": 20,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 21,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "diamond"
+                },
+                {
+                    "count": 1,
+                    "item": "goldenpickaxe"
+                }
+            ],
+            "ty": "diamondpickaxe"
+        },
+        "diamondshield": {
+            "category": "3_defense",
+            "level": 10,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 11,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "diamond"
+                }
+            ],
+            "ty": "diamondshield"
+        },
+        "disguisehat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "FALSE",
+            "order": 2,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 150,
+                    "item": "bone"
+                },
+                {
+                    "count": 100,
+                    "item": "web"
+                }
+            ],
+            "ty": "disguisehat"
+        },
+        "druidhat": {
+            "category": "6_hats",
+            "level": 42,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 22,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 20,
+                    "item": "web"
+                },
+                {
+                    "count": 20,
+                    "item": "dust"
+                }
+            ],
+            "ty": "druidhat"
+        },
+        "extinguisher": {
+            "category": "1_weapon",
+            "level": 2,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 30,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "extinguisher"
+        },
+        "fireball": {
+            "category": "1_weapon",
+            "count": 1,
+            "level": 22,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 39,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "dust"
+                },
+                {
+                    "count": 1,
+                    "item": "diamond"
+                }
+            ],
+            "ty": "fireball"
+        },
+        "fireballweapon": {
+            "category": "1_weapon",
+            "level": 22,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 39,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 75,
+                    "item": "diamond"
+                }
+            ],
+            "ty": "fireballweapon"
+        },
+        "furhat": {
+            "category": "6_hats",
+            "level": 5,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 12,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 150,
+                    "item": "fur"
+                }
+            ],
+            "ty": "furhat"
+        },
+        "goldenaxe": {
+            "category": "1_weapon",
+            "level": 8,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 15,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "goldore"
+                },
+                {
+                    "count": 1,
+                    "item": "axe"
+                }
+            ],
+            "ty": "goldenaxe"
+        },
+        "goldenbow": {
+            "category": "1_weapon",
+            "level": 9,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 29,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1,
+                    "item": "bow"
+                },
+                {
+                    "count": 100,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "goldenbow"
+        },
+        "goldenhammer": {
+            "category": "1_weapon",
+            "level": 9,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 17,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1,
+                    "item": "hammer"
+                },
+                {
+                    "count": 250,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "goldenhammer"
+        },
+        "goldenpickaxe": {
+            "category": "1_weapon",
+            "level": 8,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 16,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "goldore"
+                },
+                {
+                    "count": 1,
+                    "item": "pickaxe"
+                }
+            ],
+            "ty": "goldenpickaxe"
+        },
+        "goldenshield": {
+            "category": "3_defense",
+            "level": 5,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 9,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "goldore"
+                },
+                {
+                    "count": 30,
+                    "item": "diamond"
+                }
+            ],
+            "ty": "goldenshield"
+        },
+        "goldensword": {
+            "category": "1_weapon",
+            "level": 7,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 27,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "goldore"
+                },
+                {
+                    "count": 1,
+                    "item": "sword"
+                }
+            ],
+            "ty": "goldensword"
+        },
+        "hammer": {
+            "category": "1_weapon",
+            "level": 4,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 12,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "log"
+                },
+                {
+                    "count": 100,
+                    "item": "rock"
+                }
+            ],
+            "ty": "hammer"
+        },
+        "harpoon": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 2,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 200,
+                    "item": "diamond"
+                },
+                {
+                    "count": 60,
+                    "item": "web"
+                },
+                {
+                    "count": 60,
+                    "item": "dust"
+                }
+            ],
+            "ty": "harpoon"
+        },
+        "iceshield": {
+            "category": "3_defense",
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 1,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 250,
+                    "item": "diamond"
+                },
+                {
+                    "count": 200,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 150,
+                    "item": "dust"
+                }
+            ],
+            "ty": "iceshield"
+        },
+        "illusionhat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "FALSE",
+            "order": 3,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 400,
+                    "item": "diamond"
+                },
+                {
+                    "count": 300,
+                    "item": "dust"
+                },
+                {
+                    "count": 100,
+                    "item": "web"
+                }
+            ],
+            "ty": "illusionhat"
+        },
+        "jasonhat": {
+            "category": "6_hats",
+            "level": 42,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 22,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "dust"
+                }
+            ],
+            "ty": "jasonhat"
+        },
+        "katana": {
+            "category": "1_weapon",
+            "level": 5,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 25,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "goldore"
+                },
+                {
+                    "count": 50,
+                    "item": "dust"
+                }
+            ],
+            "ty": "katana"
+        },
+        "kunai": {
+            "category": "1_weapon",
+            "count": 25,
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 8,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 250,
+                    "item": "rock"
+                },
+                {
+                    "count": 250,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "kunai"
+        },
+        "lamphat": {
+            "category": "6_hats",
+            "level": 10,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 14,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 150,
+                    "item": "goldore"
+                },
+                {
+                    "count": 10,
+                    "item": "dust"
+                }
+            ],
+            "ty": "lamphat"
+        },
+        "machete": {
+            "category": "1_weapon",
+            "level": 22,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 39,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 300,
+                    "item": "diamond"
+                },
+                {
+                    "count": 200,
+                    "item": "darkmatter"
+                }
+            ],
+            "ty": "machete"
+        },
+        "medicinehat": {
+            "category": "6_hats",
+            "level": 42,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 22,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "web"
+                }
+            ],
+            "ty": "medicinehat"
+        },
+        "moneyhat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 1,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 200,
+                    "item": "goldore"
+                },
+                {
+                    "count": 200,
+                    "item": "diamond"
+                }
+            ],
+            "ty": "moneyhat"
+        },
+        "pickaxe": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 10,
+                    "item": "log"
+                },
+                {
+                    "count": 10,
+                    "item": "rock"
+                }
+            ],
+            "ty": "pickaxe"
+        },
+        "powder": {
+            "category": "1_weapon",
+            "level": 12,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 19,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "dust"
+                }
+            ],
+            "ty": "powder"
+        },
+        "premiumbow": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 5,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 80,
+                    "item": "goldore"
+                },
+                {
+                    "count": 30,
+                    "item": "diamond"
+                }
+            ],
+            "ty": "premiumbow"
+        },
+        "premiumkopis": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 6,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 150,
+                    "item": "diamond"
+                },
+                {
+                    "count": 100,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 50,
+                    "item": "fur"
+                }
+            ],
+            "ty": "premiumkopis"
+        },
+        "premiumlongsword": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 1,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 150,
+                    "item": "diamond"
+                },
+                {
+                    "count": 150,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 100,
+                    "item": "fur"
+                }
+            ],
+            "ty": "premiumlongsword"
+        },
+        "premiumshield": {
+            "category": "3_defense",
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 2,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 350,
+                    "item": "darkmatter"
+                },
+                {
+                    "count": 200,
+                    "item": "diamond"
+                },
+                {
+                    "count": 100,
+                    "item": "fur"
+                }
+            ],
+            "ty": "premiumshield"
+        },
+        "propellerhat": {
+            "category": "6_hats",
+            "level": 2,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 9,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "goldore"
+                },
+                {
+                    "count": 20,
+                    "item": "dust"
+                }
+            ],
+            "ty": "propellerhat"
+        },
+        "rockethat": {
+            "category": "6_hats",
+            "level": 42,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 22,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 500,
+                    "item": "diamond"
+                }
+            ],
+            "ty": "rockethat"
+        },
+        "santahat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 10,
+                    "item": "diamond"
+                },
+                {
+                    "count": 10,
+                    "item": "fur"
+                }
+            ],
+            "ty": "santahat"
+        },
+        "shooterhat": {
+            "category": "6_hats",
+            "level": 13,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 16,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "feather"
+                }
+            ],
+            "ty": "shooterhat"
+        },
+        "simpleshield": {
+            "category": "3_defense",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 6,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "log"
+                },
+                {
+                    "count": 1,
+                    "item": "rock"
+                }
+            ],
+            "ty": "simpleshield"
+        },
+        "sonichat": {
+            "category": "6_hats",
+            "level": 42,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 22,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "dust"
+                },
+                {
+                    "count": 100,
+                    "item": "diamond"
+                }
+            ],
+            "ty": "sonichat"
+        },
+        "spear": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 19,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "rock"
+                },
+                {
+                    "count": 20,
+                    "item": "web"
+                },
+                {
+                    "count": 50,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "spear"
+        },
+        "speedhat": {
+            "category": "6_hats",
+            "level": 19,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 17,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 150,
+                    "item": "goldore"
+                },
+                {
+                    "count": 20,
+                    "item": "dust"
+                }
+            ],
+            "ty": "speedhat"
+        },
+        "spideregg": {
+            "category": "1_weapon",
+            "count": 10,
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 9,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "web"
+                },
+                {
+                    "count": 1,
+                    "item": "diamond"
+                }
+            ],
+            "ty": "spideregg"
+        },
+        "spikehat": {
+            "category": "6_hats",
+            "level": 42,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 22,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "bone"
+                }
+            ],
+            "ty": "spikehat"
+        },
+        "spikeshield": {
+            "category": "3_defense",
+            "level": 2,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 7,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "log"
+                },
+                {
+                    "count": 25,
+                    "item": "web"
+                }
+            ],
+            "ty": "spikeshield"
+        },
+        "spit": {
+            "category": "1_weapon",
+            "event": "halloween",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 300,
+                    "item": "candy"
+                }
+            ],
+            "ty": "spit"
+        },
+        "sword": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 19,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 10,
+                    "item": "rock"
+                },
+                {
+                    "count": 50,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "sword"
+        },
+        "techhat": {
+            "category": "6_hats",
+            "level": 10,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 15,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "dust"
+                }
+            ],
+            "ty": "techhat"
+        },
+        "thiefhat": {
+            "category": "6_hats",
+            "level": 42,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 22,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 200,
+                    "item": "darkmatter"
+                }
+            ],
+            "ty": "thiefhat"
+        },
+        "throwingknife": {
+            "category": "1_weapon",
+            "count": 1,
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 22,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "goldore"
+                },
+                {
+                    "count": 10,
+                    "item": "diamond"
+                }
+            ],
+            "ty": "throwingknife"
+        },
+        "thunderwand": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "TRUE",
+            "only_premium": "TRUE",
+            "order": 7,
+            "premium": "TRUE",
+            "price": [
+                {
+                    "count": 150,
+                    "item": "goldore"
+                },
+                {
+                    "count": 150,
+                    "item": "dust"
+                }
+            ],
+            "ty": "thunderwand"
+        },
+        "tool": {
+            "category": "1_weapon",
+            "level": 5,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 13,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "tool"
+        },
+        "touristhat": {
+            "category": "6_hats",
+            "level": 2,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 9,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "web"
+                },
+                {
+                    "count": 50,
+                    "item": "log"
+                }
+            ],
+            "ty": "touristhat"
+        },
+        "vampirehat": {
+            "category": "6_hats",
+            "level": 42,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 22,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "dust"
+                },
+                {
+                    "count": 100,
+                    "item": "darkmatter"
+                }
+            ],
+            "ty": "vampirehat"
+        },
+        "vikingaxe": {
+            "category": "1_weapon",
+            "level": 11,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 32,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 2,
+                    "item": "axe"
+                },
+                {
+                    "count": 40,
+                    "item": "darkmatter"
+                }
+            ],
+            "ty": "vikingaxe"
+        }
+    }
+}

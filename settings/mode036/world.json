@@ -1,0 +1,397 @@
+{
+    "battleroyale": {
+        "timeout": 20,
+        "group": "battleroyale",
+        "place": "battleroyale",
+        "radius": 20
+    },
+    "spawning": {
+        "search_free_position": true
+    },
+    "monument": {
+        "tick_timeout": 2.0
+    },
+    "score_rewards": {
+        "0": {
+            "allowance": 1,
+            "rewards": [{
+                "%": 100,
+                "$": 1,
+                "coin": 50
+            }]
+        },
+        "1": {
+            "allowance": 1,
+            "rewards": [{
+                "%": 100,
+                "$": 1,
+                "coin": 25
+            }]
+        },
+        "2": {
+            "allowance": 1,
+            "rewards": [{
+                "%": 100,
+                "$": 1,
+                "coin": 10
+            }]
+        }
+    },
+    "skilltree": {
+        "exp": [1000, 2000, 4000, 8000, 12000, 16000, 20000, 24000],
+        "sets": [
+            ["stamina", "experience", "speed5", "damage5"],
+            ["stamina", "experience", "speed5", "damage5"],
+            ["health15", "fastbuild", "lowheat", "experience", "stamina"],
+            ["health15", "fastbuild", "lowcold", "hiddenonmap", "score"],
+            ["lowradiation", "coins50", "health30", "hiddenonmap", "score"],
+            ["speed10", "damage10", "coins100", "lowradiation", "health30"],
+            ["notransportdamage", "buildingdefense", "speed10", "lowradiation"],
+            ["maneuverability", "autoguidedbullets", "notransportdamage", "nocollisiondamage", "buildingdefense", "murdereritem", "fasttraps"]
+        ]
+    },
+    "actions": {
+        "spawn_limit": 300
+    },
+    "interact": {
+        "search_radius": 3.0,
+        "search_radius_max": 5.1
+    },
+    "inventory": {
+        "drop_speed": 10.0
+    },
+    "electricity": {
+        "timeout": 1.0
+    },
+    "borders": {
+        "damage_timeout": 1,
+        "damage_percent": 0.08
+    },
+    "stamina": {
+        "interact_decrease": 1.0
+    },
+    "minimap": {
+        "interval": 3.0,
+        "width": 512,
+        "height": 512,
+        "distance": 60
+    },
+    "teamnavigation": {
+        "interval": 3.0
+    },
+    "regeneration": {
+        "timeout": 1.0
+    },
+    "daytime": {
+        "tick": 0.01,
+        "max_night_hour": 23.0,
+        "min_night_hour": 5.0
+    },
+    "target_search": {
+        "timeout": 2.0
+    },
+    "plate": {
+        "max_length": 512
+    },
+    "buff": {
+        "timeout": 0.5
+    },
+    "radiation": {
+        "affect_timeout": 1,
+        "decrease_speed": 100,
+        "increase_speed": 20,
+        "damage": 0.05
+    },
+    "temperature": {
+        "hot_damage": 0.05,
+        "hot_decrease_speed": 10,
+        "hot_increase_speed": 2,
+        "cold_affect_zone": 6.0,
+        "cold_damage": 0.05,
+        "affect_timeout": 1,
+        "cold_decrease_speed": 1,
+        "cold_increase_speed": 10,
+        "fire_affect_zone": 6.0
+    },
+    "zonespawner": {
+        "records": [
+            {
+                "zone_type": "Forest",
+                "hour_mod": 1,
+                "entity_type": "Shadow1",
+                "player_distance": 50,
+                "radius": 1.5,
+                "necessary_count": 30,
+                "night_mode": true
+            },
+            {
+                "zone_type": "Forest",
+                "hour_mod": 1,
+                "entity_type": "Shadow2",
+                "player_distance": 50,
+                "radius": 1.5,
+                "necessary_count": 30,
+                "night_mode": true
+            },
+            {
+                "zone_type": "DiamondSpawnerZone",
+                "hour_mod": 1,
+                "entity_type": "Diamond",
+                "player_distance": 50,
+                "radius": 1.5,
+                "necessary_count": 30,
+                "night_mode": false
+            }
+        ]
+    },
+    "drop": {
+        "soft_limit": 100,
+        "hard_limit": 300,
+        "time_multiplier": 10
+    },
+    "eventspawners": {
+        "distance_to_player": 80,
+        "timeout": 30,
+        "groups": [
+            {
+                "event": "goldencow",
+                "entity": "GoldenCow",
+                "count": 1,
+                "limit": 1,
+                "timeout": 14400
+            }
+        ]
+    },
+    "events": {
+        "treasurehunt": {
+            "timeout": 1800,
+            "area_radius": 15,
+            "target_types": [
+                "Tree",
+                "SnowTree"
+            ],
+            "spawn_type": "ForestChest"
+        },
+        "easter": {
+            "timeout": 600,
+            "area_radius": 15,
+            "target_types": [
+                "Tree",
+                "SnowTree",
+                "TimeriteStone",
+                "DeadTree",
+                "Stone",
+                "GoldStone",
+                "CopperStone",
+                "SnowStone",
+                "SnowGoldStone",
+                "Diamond",
+                "Cactus"
+            ],
+            "spawn_types": ["EasterEgg1", "EasterEgg2", "EasterEgg3"]
+        }
+    },
+    "forts": {
+        "timeout": 3600,
+        "max_count": 5,
+        "distance_to_player": 80,
+        "groups": [
+            {
+                "name": "swampchest_03",
+                "weight": 20,
+                "limit": 1,
+                "biom": "swamp",
+                "timeout": 18000
+            },
+            {
+                "name": "blackchest_02",
+                "weight": 20,
+                "biom": "winter",
+                "limit": 1,
+                "timeout": 36000
+            },
+            {
+                "name": "secretchest_00",
+                "weight": 30,
+                "limit": 1,
+                "biom": "summer",
+                "timeout": 3600
+            },
+            {
+                "name": "spidermother_01",
+                "weight": 10,
+                "limit": 1,
+                "biom": "desert",
+                "timeout": 18000
+            },
+            {
+                "name": "spiderchest_01",
+                "weight": 10,
+                "biom": "desert",
+                "limit": 1,
+                "timeout": 18000
+            },
+            {
+                "name": "giftbox_01",
+                "weight": 90,
+                "limit": 10,
+                "biom": "summer",
+                "timeout": 600,
+                "event": "christmas"
+            },
+            {
+                "name": "christmas6",
+                "weight": 90,
+                "limit": 1,
+                "biom": "winter",
+                "timeout": 14400,
+                "event": "christmas"
+            },
+            {
+                "name": "halloweenchest_00",
+                "weight": 90,
+                "limit": 1,
+                "biom": "summer",
+                "timeout": 43200,
+                "event": "halloween"
+            },
+            {
+                "name": "halloweenchest_01",
+                "weight": 90,
+                "limit": 1,
+                "biom": "winter",
+                "timeout": 43200,
+                "event": "halloween"
+            },
+            {
+                "name": "halloweenchest_02",
+                "weight": 90,
+                "limit": 1,
+                "biom": "desert",
+                "timeout": 43200,
+                "event": "halloween"
+            },
+            {
+                "name": "halloweenchest_03",
+                "weight": 90,
+                "limit": 1,
+                "biom": "summer",
+                "timeout": 43200,
+                "event": "halloween"
+            },
+            {
+                "name": "halloweengift",
+                "weight": 90,
+                "limit": 1,
+                "biom": "winter",
+                "timeout": 43200,
+                "event": "halloween"
+            },
+            {
+                "name": "halloweengift",
+                "weight": 90,
+                "limit": 1,
+                "biom": "summer",
+                "timeout": 43200,
+                "event": "halloween"
+            },
+            {
+                "name": "spidermother_halloween",
+                "weight": 90,
+                "limit": 1,
+                "biom": "summer",
+                "timeout": 43200,
+                "event": "halloween"
+            },
+            {
+                "name": "halloween_blackchest_02",
+                "weight": 90,
+                "limit": 1,
+                "biom": "summer",
+                "timeout": 43200,
+                "event": "halloween"
+            },
+            {
+                "name": "halloween_secretchest_00",
+                "weight": 90,
+                "limit": 1,
+                "biom": "summer",
+                "timeout": 43200,
+                "event": "halloween"
+            },
+            {
+                "name": "halloween_secretchest_00",
+                "weight": 90,
+                "limit": 1,
+                "biom": "summer",
+                "timeout": 43200,
+                "event": "halloween"
+            },
+            {
+                "name": "halloween_spiderchest_01",
+                "weight": 90,
+                "limit": 1,
+                "biom": "summer",
+                "timeout": 43200,
+                "event": "halloween"
+            },
+            {
+                "name": "halloween_swampchest_03",
+                "weight": 90,
+                "limit": 1,
+                "biom": "summer",
+                "timeout": 43200,
+                "event": "halloween"
+            },
+            {
+                "name": "christmas1",
+                "weight": 90,
+                "limit": 1,
+                "biom": "winter",
+                "timeout": 18000,
+                "event": "christmas"
+            },
+            {
+                "name": "christmas2",
+                "weight": 90,
+                "limit": 1,
+                "biom": "winter",
+                "timeout": 18000,
+                "event": "christmas"
+            },
+            {
+                "name": "christmas3",
+                "weight": 90,
+                "limit": 1,
+                "biom": "winter",
+                "timeout": 18000,
+                "event": "christmas"
+            },
+            {
+                "name": "christmas4",
+                "weight": 90,
+                "limit": 1,
+                "biom": "winter",
+                "timeout": 18000,
+                "event": "christmas"
+            },
+            {
+                "name": "christmas5",
+                "weight": 90,
+                "limit": 1,
+                "biom": "winter",
+                "timeout": 18000,
+                "event": "christmas"
+            },
+            {
+                "name": "christmas6",
+                "weight": 90,
+                "limit": 1,
+                "biom": "winter",
+                "timeout": 18000,
+                "event": "christmas"
+            }
+        ],
+        "min_players": -1
+    }
+}

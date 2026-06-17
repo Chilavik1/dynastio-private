@@ -1,0 +1,986 @@
+{
+  "entities": {
+    "archer": {
+      "exp": {
+        "level_max": 1
+      },
+      "health": {
+        "start_health": 50
+      }
+    },
+    "archertower": {
+      "health": {
+        "start_health": 500
+      }
+    },
+    "boar": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "bonfire": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "boostpad": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 0
+      }
+    },
+    "bronzecrate": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "buffalo": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "cactus": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "cactuswall": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 500
+      }
+    },
+    "chickenfarm": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "chimera": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "christmasdeer": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "circleofreturn": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "circleofsacrifices": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "conductivefloor": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "coppermine": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "copperstone": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "deaddoor": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "deadtree": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "deadwall": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 1200
+      }
+    },
+    "decorativefloor1": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "decorativefloor2": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "decorativefloor3": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "decorativefloor4": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "decorativefloor5": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "decorativefloor6": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "decorativefloorchristmas1": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "decorativefloorchristmas2": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "decorativefloorchristmas3": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "decorativefloorchristmas4": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "decorativefloorhalloween1": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "decorativefloorhalloween2": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "deer": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "desertbush": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "diamond": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "diamonddoor": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "diamondwall": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 900
+      }
+    },
+    "electricdoor": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "electricspikes": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "electricswitch": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "electricwall": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 500
+      }
+    },
+    "farm": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "fireballtower": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 500
+      }
+    },
+    "firewatchertower": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "fitosaur": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "floor": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "foreignheartstone": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "forestchest": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "freezer": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "furnace": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "geist": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "giftbox": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "goldencow": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "goldencrate": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "goldendoor": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "goldmine": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "goldstone": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 300
+      },
+      "recover": {
+        "force": true,
+        "migrate_distance": 0,
+        "timeout": 0
+      }
+    },
+    "goldwall": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 800
+      }
+    },
+    "guard": {
+      "exp": {
+        "level_max": 1
+      },
+      "health": {
+        "start_health": 90
+      }
+    },
+    "guardarcher": {
+      "exp": {
+        "level_max": 1
+      },
+      "health": {
+        "start_health": 90
+      }
+    },
+    "heartstone": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "hedgehog": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "hermitcrab": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "holidaytree": {
+      "health": {
+        "start_health": 999999999
+      },
+      "recover": {
+        "force": true,
+        "migrate_distance": 0,
+        "timeout": 0
+      }
+    },
+    "homechicken": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "homechickensmall": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "homepig": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "homepigsmall": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "knightmannequin": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "lamp": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "mercenary": {
+      "exp": {
+        "level_max": 1
+      },
+      "health": {
+        "start_health": 60
+      }
+    },
+    "moloch": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "monument": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 999999999
+      }
+    },
+    "nightmare": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "penguin": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "phantomtower": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 800
+      }
+    },
+    "pig": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "platform": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "player": {
+      "exp": {
+        "damage_increase": 0,
+        "health_increase": 0,
+        "power_increase": 0,
+        "stamina_increase": 0
+      }
+    },
+    "portal": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "premiumtower": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "premiumwall": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 1000
+      }
+    },
+    "pumpkinlamp": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "rabbit": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "redspider": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "reflectwall": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 500
+      }
+    },
+    "rockmine": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "rockwall": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 600
+      }
+    },
+    "santa": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "secretchest": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "shadow1": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "shadow2": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "silvercrate": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "skeleton": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "slime": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "snowballtower": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 500
+      }
+    },
+    "snowgoldstone": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 999999999
+      },
+      "recover": {
+        "force": true,
+        "migrate_distance": 0,
+        "timeout": 0
+      }
+    },
+    "snowman": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "snowstone": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "snowtree": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 999999999
+      },
+      "recover": {
+        "force": true,
+        "migrate_distance": 0,
+        "timeout": 0
+      }
+    },
+    "spider": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "spiderchest": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "spidermother": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "spidertower": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "stone": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "stonearchertower": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 500
+      }
+    },
+    "swampchest": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "swampmonster": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "swampworm": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "timeritestone": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "tortoise": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "tower": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "trap": {
+      "health": {
+        "start_health": 60
+      }
+    },
+    "travolatordown": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "travolatorleft": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "travolatorright": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "travolatorup": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "tree": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 999999999
+      },
+      "recover": {
+        "force": true,
+        "migrate_distance": 0,
+        "timeout": 0
+      }
+    },
+    "turkey": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "wallbreaker": {
+      "health": {
+        "start_health": 150
+      }
+    },
+    "werewolf": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "whitebear": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "wolf": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "wooddoor": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "woodenplate": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "woodmine": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "woodspikes": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    },
+    "woodwall": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      },
+      "health": {
+        "start_health": 400
+      }
+    },
+    "zombie": {
+      "dropset": {
+        "allowance": [
+          0
+        ]
+      }
+    }
+  }
+}

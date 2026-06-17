@@ -1,0 +1,85 @@
+{
+    "name": "aggressive_break",
+    "description": "Aggressive mob with break timeout - can interrupt attack sequence if target moves too far",
+    "tree": {
+        "type": "Select",
+        "children": [
+            {
+                "type": "While",
+                "condition": {
+                    "type": "Action",
+                    "name": "HasAttackTarget"
+                },
+                "body": [
+                    {
+                        "type": "Sequence",
+                        "children": [
+                            {
+                                "type": "Action",
+                                "name": "PrepareAttack"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "LookOnTarget"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "BreakAttackSequenceTimeout"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "MoveToAttackTarget"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "LookOnTarget"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "AttackAnimation"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "PreAttackTimeout"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "AttackTarget"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "PostAttackTimeout"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "While",
+                "condition": {
+                    "type": "Action",
+                    "name": "HasNotAttackTarget"
+                },
+                "body": [
+                    {
+                        "type": "Sequence",
+                        "children": [
+                            {
+                                "type": "Action",
+                                "name": "PrepareFreeState"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "MoveFreeState"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "WaitFreeState"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

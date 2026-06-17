@@ -1,0 +1,644 @@
+{
+    "shop": {
+        "arrow": {
+            "category": "1_weapon",
+            "count": 8,
+            "event": "",
+            "locked": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": 1,
+            "ty": "arrow"
+        },
+        "ball": {
+            "category": "8_misc",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": 1,
+            "ty": "ball"
+        },
+        "bonehat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": 15,
+            "ty": "bonehat"
+        },
+        "boostpad": {
+            "category": "8_misc",
+            "count": 5,
+            "event": "",
+            "locked": "FALSE",
+            "order": 16,
+            "premium": "FALSE",
+            "price": 15,
+            "ty": "boostpad"
+        },
+        "cactushat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": 5,
+            "ty": "cactushat"
+        },
+        "chitinbow": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 11,
+            "premium": "FALSE",
+            "price": 16,
+            "ty": "chitinbow"
+        },
+        "crowbar": {
+            "category": "8_misc",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": 20,
+            "ty": "crowbar"
+        },
+        "crownhat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": 9,
+            "ty": "crownhat"
+        },
+        "darkspear": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 11,
+            "premium": "FALSE",
+            "price": 17,
+            "ty": "darkspear"
+        },
+        "deathscythe": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 14,
+            "premium": "FALSE",
+            "price": 30,
+            "ty": "deathscythe"
+        },
+        "deathshield": {
+            "category": "3_defense",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 4,
+            "premium": "FALSE",
+            "price": 8,
+            "ty": "deathshield"
+        },
+        "diamondpickaxe": {
+            "category": "8_misc",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 6,
+            "premium": "FALSE",
+            "price": 2,
+            "ty": "diamondpickaxe"
+        },
+        "diamondshield": {
+            "category": "3_defense",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 6,
+            "premium": "FALSE",
+            "price": 12,
+            "ty": "diamondshield"
+        },
+        "dirtyfryingpane": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 16,
+            "premium": "FALSE",
+            "price": 20,
+            "ty": "dirtyfryingpane"
+        },
+        "electricitykatana": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 17,
+            "premium": "FALSE",
+            "price": 19,
+            "ty": "electricitykatana"
+        },
+        "extinguisher": {
+            "category": "8_misc",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": 1,
+            "ty": "extinguisher"
+        },
+        "fireball": {
+            "category": "1_weapon",
+            "count": 10,
+            "event": "",
+            "locked": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": 2,
+            "ty": "fireball"
+        },
+        "fireballweapon": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 13,
+            "premium": "FALSE",
+            "price": 12,
+            "ty": "fireballweapon"
+        },
+        "firepotion": {
+            "category": "8_misc",
+            "count": 3,
+            "event": "",
+            "locked": "FALSE",
+            "order": 9,
+            "premium": "FALSE",
+            "price": 3,
+            "ty": "firepotion"
+        },
+        "goldenhammer": {
+            "category": "8_misc",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 7,
+            "premium": "FALSE",
+            "price": 6,
+            "ty": "goldenhammer"
+        },
+        "goldenhelmet": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 11,
+            "premium": "FALSE",
+            "price": 40,
+            "ty": "goldenhelmet"
+        },
+        "goldore": {
+            "category": "8_misc",
+            "count": 250,
+            "event": "",
+            "locked": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": 11,
+            "ty": "goldore"
+        },
+        "grapplinghook": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 15,
+            "premium": "FALSE",
+            "price": 20,
+            "ty": "grapplinghook"
+        },
+        "grenadefire": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 9,
+            "premium": "FALSE",
+            "price": 5,
+            "ty": "grenadefire"
+        },
+        "grenadeice": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": 5,
+            "ty": "grenadeice"
+        },
+        "grenadesmoke": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 6,
+            "premium": "FALSE",
+            "price": 3,
+            "ty": "grenadesmoke"
+        },
+        "grenadesticky": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 7,
+            "premium": "FALSE",
+            "price": 3,
+            "ty": "grenadesticky"
+        },
+        "grenadetoxic": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 10,
+            "premium": "FALSE",
+            "price": 5,
+            "ty": "grenadetoxic"
+        },
+        "harpoon": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "TRUE",
+            "order": 23,
+            "premium": "TRUE",
+            "price": 25,
+            "ty": "harpoon"
+        },
+        "healwand": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 12,
+            "premium": "FALSE",
+            "price": 16,
+            "ty": "healwand"
+        },
+        "heraldicshield": {
+            "category": "3_defense",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 7,
+            "premium": "FALSE",
+            "price": 17,
+            "ty": "heraldicshield"
+        },
+        "iceshield": {
+            "category": "3_defense",
+            "count": 1,
+            "event": "",
+            "locked": "TRUE",
+            "order": 10,
+            "premium": "TRUE",
+            "price": 30,
+            "ty": "iceshield"
+        },
+        "illusionhat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "TRUE",
+            "order": 12,
+            "premium": "TRUE",
+            "price": 40,
+            "ty": "illusionhat"
+        },
+        "improvedstickypotion": {
+            "category": "8_misc",
+            "count": 3,
+            "event": "",
+            "locked": "TRUE",
+            "order": 14,
+            "premium": "TRUE",
+            "price": 5,
+            "ty": "improvedstickypotion"
+        },
+        "invisiblepotion": {
+            "category": "8_misc",
+            "count": 3,
+            "event": "",
+            "locked": "FALSE",
+            "order": 12,
+            "premium": "FALSE",
+            "price": 6,
+            "ty": "invisiblepotion"
+        },
+        "katana": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": 5,
+            "ty": "katana"
+        },
+        "kunai": {
+            "category": "1_weapon",
+            "count": 25,
+            "event": "",
+            "locked": "TRUE",
+            "order": 20,
+            "premium": "TRUE",
+            "price": 5,
+            "ty": "kunai"
+        },
+        "medicinehat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": 19,
+            "ty": "medicinehat"
+        },
+        "murderer": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 29,
+            "premium": "FALSE",
+            "price": 40,
+            "ty": "murderer"
+        },
+        "phantomshield": {
+            "category": "3_defense",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 9,
+            "premium": "FALSE",
+            "price": 18,
+            "ty": "phantomshield"
+        },
+        "powder": {
+            "category": "8_misc",
+            "count": 10,
+            "event": "",
+            "locked": "FALSE",
+            "order": 4,
+            "premium": "FALSE",
+            "price": 2,
+            "ty": "powder"
+        },
+        "premiumbow": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "TRUE",
+            "order": 22,
+            "premium": "TRUE",
+            "price": 20,
+            "ty": "premiumbow"
+        },
+        "premiumkopis": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "TRUE",
+            "order": 24,
+            "premium": "TRUE",
+            "price": 40,
+            "ty": "premiumkopis"
+        },
+        "premiumlongsword": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "TRUE",
+            "order": 25,
+            "premium": "TRUE",
+            "price": 40,
+            "ty": "premiumlongsword"
+        },
+        "premiumshield": {
+            "category": "3_defense",
+            "count": 1,
+            "event": "",
+            "locked": "TRUE",
+            "order": 11,
+            "premium": "TRUE",
+            "price": 30,
+            "ty": "premiumshield"
+        },
+        "regenerationpotion": {
+            "category": "8_misc",
+            "count": 3,
+            "event": "",
+            "locked": "FALSE",
+            "order": 11,
+            "premium": "FALSE",
+            "price": 4,
+            "ty": "regenerationpotion"
+        },
+        "rockethat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 10,
+            "premium": "FALSE",
+            "price": 20,
+            "ty": "rockethat"
+        },
+        "scorehat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 7,
+            "premium": "FALSE",
+            "price": 8,
+            "ty": "scorehat"
+        },
+        "shooterhat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 4,
+            "premium": "FALSE",
+            "price": 7,
+            "ty": "shooterhat"
+        },
+        "sonichat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 10,
+            "premium": "FALSE",
+            "price": 24,
+            "ty": "sonichat"
+        },
+        "spideregg": {
+            "category": "1_weapon",
+            "count": 10,
+            "event": "",
+            "locked": "TRUE",
+            "order": 19,
+            "premium": "TRUE",
+            "price": 3,
+            "ty": "spideregg"
+        },
+        "spidershield": {
+            "category": "3_defense",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 5,
+            "premium": "FALSE",
+            "price": 10,
+            "ty": "spidershield"
+        },
+        "spidersword": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 28,
+            "premium": "FALSE",
+            "price": 60,
+            "ty": "spidersword"
+        },
+        "spiderwand": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 26,
+            "premium": "FALSE",
+            "price": 50,
+            "ty": "spiderwand"
+        },
+        "spikeshield": {
+            "category": "3_defense",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": 6,
+            "ty": "spikeshield"
+        },
+        "staminapotion": {
+            "category": "8_misc",
+            "count": 3,
+            "event": "",
+            "locked": "FALSE",
+            "order": 15,
+            "premium": "FALSE",
+            "price": 3,
+            "ty": "staminapotion"
+        },
+        "stickypotion": {
+            "category": "8_misc",
+            "count": 3,
+            "event": "",
+            "locked": "FALSE",
+            "order": 13,
+            "premium": "FALSE",
+            "price": 3,
+            "ty": "stickypotion"
+        },
+        "swamppotion": {
+            "category": "8_misc",
+            "count": 3,
+            "event": "",
+            "locked": "FALSE",
+            "order": 10,
+            "premium": "FALSE",
+            "price": 3,
+            "ty": "swamppotion"
+        },
+        "thiefhat": {
+            "category": "6_hats",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 9,
+            "premium": "FALSE",
+            "price": 18,
+            "ty": "thiefhat"
+        },
+        "thunderwand": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "TRUE",
+            "order": 21,
+            "premium": "TRUE",
+            "price": 6,
+            "ty": "thunderwand"
+        },
+        "timeriteshield": {
+            "category": "3_defense",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 8,
+            "premium": "FALSE",
+            "price": 25,
+            "ty": "timeriteshield"
+        },
+        "timeritespear": {
+            "category": "1_weapon",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 15,
+            "premium": "FALSE",
+            "price": 25,
+            "ty": "timeritespear"
+        },
+        "tool": {
+            "category": "8_misc",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 3,
+            "premium": "FALSE",
+            "price": 10,
+            "ty": "tool"
+        },
+        "webball": {
+            "category": "1_weapon",
+            "count": 3,
+            "event": "",
+            "locked": "FALSE",
+            "order": 27,
+            "premium": "FALSE",
+            "price": 2,
+            "ty": "webball"
+        }
+    }
+}

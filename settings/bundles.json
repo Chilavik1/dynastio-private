@@ -1,0 +1,22 @@
+{
+  "bundles": {
+    "startpack": [
+      {
+        "count": 1,
+        "item": "axe"
+      },
+      {
+        "count": 1,
+        "item": "pickaxe"
+      },
+      {
+        "count": 1,
+        "item": "club"
+      },
+      {
+        "count": 1,
+        "item": "goldore"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "bundles": {
+    "startpack": [
+      {
+        "count": 1,
+        "item": "pickaxe"
+      },
+      {
+        "count": 1,
+        "item": "hammer"
+      },
+      {
+        "count": 20,
+        "item": "boostpad"
+      }
+    ]
+  }
+}

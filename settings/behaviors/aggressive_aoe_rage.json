@@ -1,0 +1,130 @@
+{
+    "name": "aggressive_aoe_rage",
+    "description": "Aggressive mob with AOE attack check and RageRun charge attack",
+    "tree": {
+        "type": "Select",
+        "children": [
+            {
+                "type": "While",
+                "condition": {
+                    "type": "Action",
+                    "name": "HasAttackTarget"
+                },
+                "body": [
+                    {
+                        "type": "Select",
+                        "children": [
+                            {
+                                "type": "Sequence",
+                                "children": [
+                                    {
+                                        "type": "IsRunning",
+                                        "child": {
+                                            "type": "Action",
+                                            "name": "NeedAOEAttack"
+                                        }
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PrepareFreeState"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PrepareAttack"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "LookOnTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "BreakAttackSequenceTimeout"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "MoveToAttackTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AttackAnimation"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PreAttackTimeout"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AttackTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PostAttackTimeout"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "Sequence",
+                                "children": [
+                                    {
+                                        "type": "Action",
+                                        "name": "PrepareAttack"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "LookOnTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PrepareRageRunAttack"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "EnableCollisionDamageComponent"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "RageRun"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "DisableCollisionDamageComponent"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PostAttackTimeout"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "While",
+                "condition": {
+                    "type": "Action",
+                    "name": "HasNotAttackTarget"
+                },
+                "body": [
+                    {
+                        "type": "Sequence",
+                        "children": [
+                            {
+                                "type": "Action",
+                                "name": "PrepareFreeState"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "MoveFreeState"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "WaitFreeState"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

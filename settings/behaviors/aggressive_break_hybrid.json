@@ -1,0 +1,136 @@
+{
+    "name": "aggressive_break_hybrid",
+    "description": "Aggressive mob with hybrid melee/ranged attack - throws projectiles at distance, melee up close",
+    "tree": {
+        "type": "Select",
+        "children": [
+            {
+                "type": "While",
+                "condition": {
+                    "type": "Action",
+                    "name": "HasAttackTarget"
+                },
+                "body": [
+                    {
+                        "type": "Select",
+                        "children": [
+                            {
+                                "type": "While",
+                                "condition": {
+                                    "type": "Action",
+                                    "name": "IsTargetInRangedZone"
+                                },
+                                "body": [
+                                    {
+                                        "type": "Sequence",
+                                        "children": [
+                                            {
+                                                "type": "Action",
+                                                "name": "SwitchToRangedWeapon"
+                                            },
+                                            {
+                                                "type": "Action",
+                                                "name": "PrepareAttack"
+                                            },
+                                            {
+                                                "type": "Action",
+                                                "name": "LookOnTarget"
+                                            },
+                                            {
+                                                "type": "Action",
+                                                "name": "RangedAttackAnimation"
+                                            },
+                                            {
+                                                "type": "Action",
+                                                "name": "PreAttackTimeout"
+                                            },
+                                            {
+                                                "type": "Action",
+                                                "name": "AttackTarget"
+                                            },
+                                            {
+                                                "type": "Action",
+                                                "name": "PostAttackTimeout"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "Sequence",
+                                "children": [
+                                    {
+                                        "type": "Action",
+                                        "name": "SwitchToMeleeWeapon"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PrepareAttack"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "LookOnTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "BreakAttackSequenceTimeout"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "MoveToAttackTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "LookOnTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AttackAnimation"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PreAttackTimeout"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "AttackTarget"
+                                    },
+                                    {
+                                        "type": "Action",
+                                        "name": "PostAttackTimeout"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "While",
+                "condition": {
+                    "type": "Action",
+                    "name": "HasNotAttackTarget"
+                },
+                "body": [
+                    {
+                        "type": "Sequence",
+                        "children": [
+                            {
+                                "type": "Action",
+                                "name": "PrepareFreeState"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "MoveFreeState"
+                            },
+                            {
+                                "type": "Action",
+                                "name": "WaitFreeState"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

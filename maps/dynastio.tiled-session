@@ -1,0 +1,188 @@
+{
+    "activeFile": "nightly/Tiles_collection/Decals_north.tsx",
+    "expandedProjectPaths": [
+        "desert",
+        "nightly",
+        "nightly/Tiles_collection",
+        "standard",
+        "trade",
+        ".",
+        "desert/Tiles_collection",
+        "demo",
+        "standard/Tiles_collection"
+    ],
+    "fileStates": {
+        "/Users/maksimustichenko/Downloads/Tiles_collection/Decals.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/maksimustichenko/Downloads/Tiles_collection/Decals_north.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/maksimustichenko/Downloads/Tiles_collection/Decals_saush.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/maksimustichenko/Downloads/Tiles_collection/Decals_swamp.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/maksimustichenko/Downloads/Tiles_collection/Tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/maksimustichenko/Downloads/map (3).tmx": {
+            "scale": 0.015625,
+            "selectedLayer": 17,
+            "viewCenter": {
+                "x": 42240,
+                "y": 22272
+            }
+        },
+        "desert/Tiles_collection/Decals_saush.tsx": {
+            "scaleInDock": 1
+        },
+        "desert/Tiles_collection/Tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.13
+        },
+        "desert/map.tmx": {
+            "scale": 0.1083,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 31994.459833795016,
+                "y": 31994.459833795016
+            }
+        },
+        "mode036/map.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 32192,
+                "y": 32192
+            }
+        },
+        "mode036/map.tmx#Desert_decales": {
+            "scaleInDock": 1
+        },
+        "mode036/map.tmx#OLD_TILES": {
+            "scaleInDock": 1
+        },
+        "mode036/map.tmx#Winter_decales": {
+            "scaleInDock": 1
+        },
+        "nightly/Tiles_collection/Decals.tsx": {
+            "scaleInDock": 1
+        },
+        "nightly/Tiles_collection/Decals_north.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "nightly/Tiles_collection/Decals_saush.tsx": {
+            "scaleInDock": 1
+        },
+        "nightly/Tiles_collection/Decals_swamp.tsx": {
+            "scaleInDock": 1
+        },
+        "nightly/Tiles_collection/Tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.14
+        },
+        "nightly/map.tmx": {
+            "expandedGroupLayers": [
+                14,
+                13
+            ],
+            "scale": 0.1173,
+            "selectedLayer": 15,
+            "viewCenter": {
+                "x": 55856.77749360615,
+                "y": 31781.756180733166
+            }
+        },
+        "pvp/map.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 20352,
+                "y": 20352
+            }
+        },
+        "spaceship/Tiles_collection/TilesSpace.tsx": {
+            "scaleInEditor": 0.5
+        },
+        "spaceship/map.tmx": {
+            "scale": 0.0625,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 12800,
+                "y": 12776
+            }
+        },
+        "standard/Tiles_collection/Decals.tsx": {
+            "scaleInDock": 1
+        },
+        "standard/Tiles_collection/Decals_north.tsx": {
+            "scaleInDock": 1
+        },
+        "standard/Tiles_collection/Decals_saush.tsx": {
+            "scaleInDock": 1
+        },
+        "standard/Tiles_collection/Decals_swamp.tsx": {
+            "scaleInDock": 1
+        },
+        "standard/Tiles_collection/Tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.14
+        },
+        "standard/map.tmx": {
+            "expandedGroupLayers": [
+                25,
+                13
+            ],
+            "scale": 0.1565,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 42236.42172523962,
+                "y": 42236.42172523962
+            }
+        },
+        "trade/Tiles_collection/Decals.tsx": {
+            "scaleInDock": 1
+        },
+        "trade/Tiles_collection/Tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "trade/map.tmx": {
+            "scale": 0.0521,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 8445.297504798466,
+                "y": 8445.297504798466
+            }
+        }
+    },
+    "last.objectTypesPath": "C:/Users/nixn0/Downloads/objecttypes.xml",
+    "openFiles": [
+        "nightly/Tiles_collection/Tiles.tsx",
+        "standard/Tiles_collection/Tiles.tsx",
+        "desert/map.tmx",
+        "nightly/map.tmx",
+        "mode036/map.tmx",
+        "trade/map.tmx",
+        "standard/map.tmx",
+        "nightly/Tiles_collection/Decals_north.tsx"
+    ],
+    "project": "dynastio.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "nightly/Tiles_collection/Tiles.tsx",
+        "standard/Tiles_collection/Tiles.tsx",
+        "desert/map.tmx",
+        "nightly/map.tmx",
+        "mode036/map.tmx",
+        "trade/map.tmx",
+        "standard/map.tmx",
+        "nightly/Tiles_collection/Decals_north.tsx",
+        "/Users/maksimustichenko/Downloads/map (3).tmx",
+        "desert/Tiles_collection/Tiles.tsx",
+        "spaceship/map.tmx",
+        "spaceship/Tiles_collection/TilesSpace.tsx"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "exp": {
+        "damage": 0.25,
+        "build": 2.5,
+        "kill": 2.5,
+        "craft": 0.1,
+        "repair": 0.1,
+        "health_increase": 3.33,
+        "damage_increase": 0.03,
+        "power_increase": 0.05,
+        "stamina_increase": 4,
+        "level_max": 30
+    }
+}

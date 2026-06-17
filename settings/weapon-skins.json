@@ -1,0 +1,382 @@
+{
+  "weapon-skins": {
+    "batwithnails_1": {
+      "item_type": "batwithnails",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "batwithnails_2": {
+      "item_type": "batwithnails",
+      "id": 2,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "chitinbow_1": {
+      "item_type": "chitinbow",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "deathscythe_1": {
+      "item_type": "deathscythe",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "goldenkatana_3": {
+      "item_type": "goldenkatana",
+      "id": 3,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "mace_2": {
+      "item_type": "mace",
+      "id": 2,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "spidersword_4": {
+      "item_type": "spidersword",
+      "id": 4,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "chromeboneclub_1": {
+      "item_type": "chromeboneclub",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "claws_1": {
+      "item_type": "claws",
+      "id": 1,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "dirtyfryingpane_1": {
+      "item_type": "dirtyfryingpane",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "dirtyfryingpane_2": {
+      "item_type": "dirtyfryingpane",
+      "id": 2,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "katana_1": {
+      "item_type": "katana",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "electricitykatana_1": {
+      "item_type": "electricitykatana",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "fireballweapon_1": {
+      "item_type": "fireballweapon",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "fireballweapon_2": {
+      "item_type": "fireballweapon",
+      "id": 2,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "fryingpane_1": {
+      "item_type": "fryingpane",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "goldenvikingaxe_1": {
+      "item_type": "goldenvikingaxe",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "healwand_1": {
+      "item_type": "healwand",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "ironclub_1": {
+      "item_type": "ironclub",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "lasersword_1": {
+      "item_type": "lasersword",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "mace_1": {
+      "item_type": "mace",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "machete_1": {
+      "item_type": "machete",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "nightmarescythe_1": {
+      "item_type": "nightmarescythe",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "phantombow_1": {
+      "item_type": "phantombow",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "phantombow_2": {
+      "item_type": "phantombow",
+      "id": 2,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },    
+    "premiumkopis_1": {
+      "item_type": "premiumkopis",
+      "id": 1,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "premiumlongsword_1": {
+      "item_type": "premiumlongsword",
+      "id": 1,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "redsword_1": {
+      "item_type": "redsword",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "rubysword_1": {
+      "item_type": "rubysword",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "spidersword_1": {
+      "item_type": "spidersword",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "spit_1": {
+      "item_type": "spit",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "voidspear_1": {
+      "item_type": "voidspear",
+      "id": 1,
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true
+    },
+    "axepickaxe_1": {
+      "item_type": "axepickaxe",
+      "id": 1,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "boxinggloves_1": {
+      "item_type": "boxinggloves",
+      "id": 1,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "electricitykatana_2": {
+      "item_type": "electricitykatana",
+      "id": 2,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "electricitykatana_3": {
+      "item_type": "electricitykatana",
+      "id": 3,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "fryingpane_2": {
+      "item_type": "fryingpane",
+      "id": 2,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "goldenkatana_1": {
+      "item_type": "goldenkatana",
+      "id": 1,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "goldenkatana_2": {
+      "item_type": "goldenkatana",
+      "id": 2,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "halloweensword_1": {
+      "item_type": "halloweensword",
+      "id": 1,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "healwand_2": {
+      "item_type": "healwand",
+      "id": 2,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "lasersword_2": {
+      "item_type": "lasersword",
+      "id": 2,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "magicwand_1": {
+      "item_type": "magicwand",
+      "id": 1,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "magicwand_2": {
+      "item_type": "magicwand",
+      "id": 2,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "magicwand_3": {
+      "item_type": "magicwand",
+      "id": 3,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "murderer_1": {
+      "item_type": "murderer",
+      "id": 1,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "nightmarescythe_2": {
+      "item_type": "nightmarescythe",
+      "id": 2,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "nightmarescythe_3": {
+      "item_type": "nightmarescythe",
+      "id": 3,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "nightmarescythe_4": {
+      "item_type": "nightmarescythe",
+      "id": 4,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "premiumkopis_2": {
+      "item_type": "premiumkopis",
+      "id": 2,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "premiumlongsword_2": {
+      "item_type": "premiumlongsword",
+      "id": 2,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "spidersword_2": {
+      "item_type": "spidersword",
+      "id": 2,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "spidersword_3": {
+      "item_type": "spidersword",
+      "id": 3,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    },
+    "spit_2": {
+      "item_type": "spit",
+      "id": 2,
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true
+    }    
+  }
+}

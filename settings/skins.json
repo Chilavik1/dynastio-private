@@ -1,0 +1,368 @@
+{
+  "skins": {
+    "knight": {
+      "ty": "knight",
+      "spine_name": "knight",
+      "locked": false,
+      "only_official_servers": false, 
+      "order": 0
+    },
+    "girl": {
+      "ty": "girl",
+      "spine_name": "girl",
+      "locked": false,
+      "only_official_servers": false,
+      "order": 1
+    },
+    "quadknight": {
+      "ty": "quadknight",
+      "spine_name": "skin 3",
+      "locked": false,
+      "only_official_servers": false,
+      "order": 2
+    },
+    "girlwithpigtails": {
+      "ty": "girlwithpigtails",
+      "spine_name": "girl2",
+      "locked": false,
+      "only_official_servers": false,
+      "order": 3
+    },
+    "samurai": {
+      "ty": "samurai",
+      "spine_name": "samurai",
+      "locked": false,
+      "only_official_servers": false,
+      "order": 4
+    },
+    "blondeknight": {
+      "ty": "blondeknight",
+      "spine_name": "skin4",
+      "locked": false,
+      "only_official_servers": false,
+      "order": 5
+    },
+    "thief": {
+      "ty": "thief",
+      "spine_name": "skin5",
+      "locked": false,
+      "only_official_servers": false,
+      "order": 6
+    },
+    "santagirl": {
+      "ty": "santagirl",
+      "spine_name": "snegurka",
+      "locked": false,
+      "only_official_servers": false,
+      "order": 7
+    },
+    "boneknight": {
+      "ty": "boneknight",
+      "spine_name": "skin6",
+      "locked": false,
+      "only_official_servers": false,
+      "order": 8
+    },
+    "spiderknight": {
+      "ty": "spiderknight",
+      "spine_name": "spyder",
+      "locked": false,
+      "only_official_servers": false,
+      "order": 9
+    },
+    "premiumdarkknight": {
+      "ty": "premiumdarkknight",
+      "spine_name": "dark_knight",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 10
+    },
+    "halloween": {
+      "ty": "halloween",
+      "spine_name": "hellowin",
+      "locked": true,
+      "only_official_servers": true,
+      "order": 11
+    },
+    "anime": {
+      "ty": "anime",
+      "spine_name": "anime",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 12
+    },
+    "robot": {
+      "ty": "robot",
+      "spine_name": "robot",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 13
+    },
+    "soldier": {
+      "ty": "soldier",
+      "spine_name": "army",
+      "locked": true,
+      "only_official_servers": true,
+      "order": 14
+    },
+    "cube": {
+      "ty": "cube",
+      "spine_name": "cube",
+      "locked": true,
+      "only_official_servers": true,
+      "ad_skin": true,
+      "order": 15
+    },
+    "steamwarrior": {
+      "ty": "steamwarrior",
+      "spine_name": "steamwarrior",
+      "locked": true,
+      "ad_skin": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 16
+    },
+    "banshee": {
+      "ty": "banshee",
+      "spine_name": "banshee",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 17
+    },
+    "chosenbynightmare": {
+      "ty": "chosenbynightmare",
+      "spine_name": "nightmare",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 18
+    },
+    "mascot": {
+      "ty": "mascot",
+      "spine_name": "mascot",
+      "locked": true,
+      "only_official_servers": true,
+      "order": 19
+    },
+    "berserk": {
+      "ty": "berserk",
+      "spine_name": "berserk",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 20
+    },
+    "swamppioneer": {
+      "ty": "swamppioneer",
+      "spine_name": "swamppioneer",
+      "locked": true,
+      "premium": true,
+      "ad_skin": true,
+      "only_official_servers": true,
+      "order": 21
+    },
+    "voidknight": {
+      "ty": "voidknight",
+      "spine_name": "voidknight",
+      "locked": true,
+      "only_official_servers": true,
+      "order": 22
+    },
+    "harlequin": {
+      "ty": "harlequin",
+      "spine_name": "joker",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 23
+    },
+    "mussurian": {
+      "ty": "mussurian",
+      "spine_name": "mussurian",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 24
+    },
+    "ninja": {
+      "ty": "ninja",
+      "spine_name": "ninja",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 25
+    },
+    "kitsune":{
+      "ty": "kitsune",
+      "spine_name": "kitsune",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 26
+    },
+    "kitsunefree":{
+      "ty": "kitsunefree",
+      "spine_name": "kitsunefree",
+      "locked": false,
+      "only_official_servers": false,
+      "order": 27
+    },
+    "polarwalker":{
+      "ty": "polarwalker",
+      "spine_name": "polarwalker",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 28
+    },
+    "xenomorph":{
+      "ty": "xenomorph",
+      "spine_name": "xenomorph",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 29
+    },
+    "symbiont":{
+      "ty": "symbiont",
+      "spine_name": "symbiont",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 30
+    },
+    "shrek":{
+      "ty": "shrek",
+      "spine_name": "shrek",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 31
+    },
+    "heavenknight":{
+      "ty": "heavenknight",
+      "spine_name": "heavenknight",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 32
+    },
+    "mascotwoman":{
+      "ty": "mascotwoman",
+      "spine_name": "mascotwoman",
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true,
+      "order": 33
+    },
+    "plaguedoctor":{
+      "ty": "plaguedoctor",
+      "spine_name": "plaguedoctor",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 34
+    },
+    "daemon":{
+      "ty": "daemon",
+      "spine_name": "daemon",
+      "locked": true,
+      "premium": true,
+      "only_premium": true,
+      "only_official_servers": true,
+      "order": 35
+    },
+    "catgirl":{
+      "ty": "catgirl",
+      "spine_name": "catgirl",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 36
+    },
+    "snowman":{
+      "ty": "snowman",
+      "spine_name": "snowman",
+      "locked": false,
+      "premium": false,
+      "only_official_servers": false,
+      "order": 37
+    },
+    "shaman":{
+      "ty": "shaman",
+      "spine_name": "shaman",
+      "locked": false,
+      "premium": false,
+      "only_official_servers": false,
+      "order": 38
+    },
+    "cernianshieldmaiden": {
+      "ty": "cernianshieldmaiden",
+      "spine_name": "cernianshieldmaiden",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 39
+    },
+    "rabbit": {
+      "ty": "rabbit",
+      "spine_name": "rabbit",
+      "locked": true,
+      "premium": false,
+      "only_official_servers": true,
+      "order": 40
+    },
+    "grinch": {
+      "ty": "grinch",
+      "spine_name": "grinch",
+      "locked": false,
+      "premium": false,
+      "only_official_servers": true,
+      "order": 41
+    },
+    "angel": {
+      "ty": "angel",
+      "spine_name": "angel",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 42
+    },
+    "manyfaceddaemon": {
+      "ty": "manyfaceddaemon",
+      "spine_name": "many_sided",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 43
+    },
+    "fairy": {
+      "ty": "fairy",
+      "spine_name": "fairy",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 44
+    },
+    "rabbitviking": {
+      "ty": "rabbitviking",
+      "spine_name": "rabbit_viking",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 45
+    },
+    "nightmareguard": {
+      "ty": "nightmareguard",
+      "spine_name": "nightmareguard",
+      "locked": true,
+      "premium": true,
+      "only_official_servers": true,
+      "order": 46
+    }
+  }
+}

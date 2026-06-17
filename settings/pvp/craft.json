@@ -1,0 +1,306 @@
+{
+    "craft": {
+        "battlefan": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 500,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "battlefan"
+        },
+        "bow": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 30,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "bow"
+        },
+        "chitinbow": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1,
+                    "item": "goldenbow"
+                },
+                {
+                    "count": 1000,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "chitinbow"
+        },
+        "chitinshield": {
+            "category": "3_defense",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1,
+                    "item": "goldenshield"
+                },
+                {
+                    "count": 3,
+                    "item": "simpleshield"
+                }
+            ],
+            "ty": "chitinshield"
+        },
+        "club": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 50,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "club"
+        },
+        "coppershield": {
+            "category": "3_defense",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1,
+                    "item": "simpleshield"
+                },
+                {
+                    "count": 350,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "coppershield"
+        },
+        "copperspear": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 200,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "copperspear"
+        },
+        "deathshield": {
+            "category": "3_defense",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1,
+                    "item": "chitinshield"
+                },
+                {
+                    "count": 100,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "deathshield"
+        },
+        "goldenbow": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1,
+                    "item": "bow"
+                },
+                {
+                    "count": 50,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "goldenbow"
+        },
+        "goldenshield": {
+            "category": "3_defense",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 3000,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "goldenshield"
+        },
+        "goldenspear": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 5,
+                    "item": "copperspear"
+                }
+            ],
+            "ty": "goldenspear"
+        },
+        "goldensword": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 3,
+                    "item": "sword"
+                },
+                {
+                    "count": 2,
+                    "item": "club"
+                }
+            ],
+            "ty": "goldensword"
+        },
+        "harlequinhat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 500,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "harlequinhat"
+        },
+        "simpleshield": {
+            "category": "3_defense",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 150,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "simpleshield"
+        },
+        "speedhat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 300,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "speedhat"
+        },
+        "sword": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 200,
+                    "item": "goldore"
+                },
+                {
+                    "count": 1,
+                    "item": "club"
+                }
+            ],
+            "ty": "sword"
+        },
+        "timeritesword": {
+            "category": "1_weapon",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 1,
+                    "item": "goldensword"
+                },
+                {
+                    "count": 300,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "timeritesword"
+        },
+        "touristhat": {
+            "category": "6_hats",
+            "level": 1,
+            "locked": "FALSE",
+            "only_premium": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": [
+                {
+                    "count": 100,
+                    "item": "goldore"
+                }
+            ],
+            "ty": "touristhat"
+        }
+    }
+}

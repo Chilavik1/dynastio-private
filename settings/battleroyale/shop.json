@@ -1,0 +1,24 @@
+{
+    "shop": {
+        "ball": {
+            "category": "8_misc",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 1,
+            "premium": "FALSE",
+            "price": 1,
+            "ty": "ball"
+        },
+        "extinguisher": {
+            "category": "8_misc",
+            "count": 1,
+            "event": "",
+            "locked": "FALSE",
+            "order": 2,
+            "premium": "FALSE",
+            "price": 1,
+            "ty": "extinguisher"
+        }
+    }
+}

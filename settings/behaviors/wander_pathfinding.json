@@ -1,0 +1,26 @@
+{
+    "name": "wander_pathfinding",
+    "description": "Entity that wanders randomly using pathfinding, no combat",
+    "tree": {
+        "type": "Select",
+        "children": [
+            {
+                "type": "Sequence",
+                "children": [
+                    {
+                        "type": "Action",
+                        "name": "PrepareRandomPointTarget"
+                    },
+                    {
+                        "type": "Action",
+                        "name": "DropPath"
+                    },
+                    {
+                        "type": "Action",
+                        "name": "MoveToRandomPointTargetUsingPath"
+                    }
+                ]
+            }
+        ]
+    }
+}

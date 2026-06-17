@@ -1,0 +1,69 @@
+{
+    "name": "swamp_trader",
+    "description": "Passive trader - runs from scary, delivers gifts, collects items, wanders",
+    "tree": {
+        "type": "Select",
+        "children": [
+            {
+                "type": "While",
+                "condition": {
+                    "type": "Action",
+                    "name": "HasScaryTarget"
+                },
+                "body": [
+                    {
+                        "type": "Sequence",
+                        "children": [
+                            { "type": "Action", "name": "PrepareScaryState" },
+                            { "type": "Action", "name": "MoveOutOfScaryTarget" },
+                            { "type": "Action", "name": "PostScaryTimeout" }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "While",
+                "condition": {
+                    "type": "Action",
+                    "name": "HasGiftTarget"
+                },
+                "body": [
+                    {
+                        "type": "Action",
+                        "name": "MoveToGiftTarget"
+                    }
+                ]
+            },
+            {
+                "type": "While",
+                "condition": {
+                    "type": "Action",
+                    "name": "HasTraderTarget"
+                },
+                "body": [
+                    {
+                        "type": "Action",
+                        "name": "MoveToTraderTarget"
+                    }
+                ]
+            },
+            {
+                "type": "While",
+                "condition": {
+                    "type": "Action",
+                    "name": "IsTraderIdle"
+                },
+                "body": [
+                    {
+                        "type": "Sequence",
+                        "children": [
+                            { "type": "Action", "name": "PrepareFreeState" },
+                            { "type": "Action", "name": "MoveFreeState" },
+                            { "type": "Action", "name": "WaitFreeState" }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
