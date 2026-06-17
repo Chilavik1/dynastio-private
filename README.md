@@ -246,6 +246,14 @@ docker pull n0uk/dynast.io-server-private:release
 * Поменяйте `DYNASTIO_SSL_HOST` и `DYNASTIO_IP` на ваш домен/ туннель
 * Поменяйте `DYNASTIO_UID` и `DYNASTIO_PIN_CODE` ( на аккаунтах с премиумом лимит онлайна 50, а не 25)
 
+> ⚙️ **Также обратите внимание:** При изменении портов в `settings.env`, их необходимо обязательно поменять и в файле конфигурации `server.json`:
+> ```json
+> "port": 80,
+> "ping_port": 80,
+> "ssl_port": 443,
+> "ssl_ping_port": 443,
+> ```
+
 Все остальные настройки были расписаны ранее.
 
 ### Команда запуска сервера 
