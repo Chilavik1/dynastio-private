@@ -31,11 +31,13 @@
 
 * **MobaXterm** — отличное решение «всё в одном» (содержит встроенную консоль и файловый менеджер SFTP для загрузки баз данных и конфигураций).
   
-  <img width="1280" height="683" alt="Xterm" src="https://github.com" />
+  <img width="1280" height="683" alt="Xterm" src="https://github.com/user-attachments/assets/c6c942c4-6281-46f9-bfd1-b0e4eb27158e" />
+
 
 * **VS Code (Remote - SSH)** — официальный плагин для популярного редактора кода. В данном руководстве мы будем использовать именно его.
   
-  <img width="1280" height="683" alt="VScode" src="https://github.com" />
+  <img width="1280" height="683" alt="VScode" src="https://github.com/user-attachments/assets/c7b800ab-b29f-4959-812b-224d052d01f0" />
+
 
 #### 🔑 Данные для авторизации в VPS:
 При подключении программа запросит у вас следующие данные (их можно найти в панели вашего хостинг-провайдера):
@@ -98,7 +100,8 @@ sudo systemctl status docker
 
 > ✅ **Проверка:** Если служба работает корректно, в консоли вы увидите статус `active (running)`.
 > 
-> <img width="1007" height="215" alt="docker stat" src="https://github.com" />
+> <img width="1007" height="215" alt="docker stat" src="https://github.com/user-attachments/assets/27f9e699-1d96-4e1d-9390-f448ffa2179e" />
+
 
 ---
 
