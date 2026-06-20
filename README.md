@@ -333,6 +333,9 @@ docker pull n0uk/dynast.io-server-private:release
 docker run --rm --env-file /root/dyn_private/settings.env -e DYNASTIO_LABEL="Noahs-test" -p 80:80 -v /root/dyn_private/data.sqlite:/usr/local/bin/data.sqlite -v /root/dyn_private/settings:/usr/local/bin/settings -v /root/dyn_private/maps:/usr/local/bin/maps -v /root/dyn_private/logs:/var/log --name dyn -d n0uk/dynast.io-server-private:release
 ```
 
+> ⚠️ **ВАЖНОЕ УТОЧНЕНИЕ**
+> При запуске сервера на windows сервер появится на анонсах не сразу, а через минут 10.
+
 #### Описание команды: 
 * `--env-file /root/dyn_private/settings.env` — путь к вашему .env файлу
 * `-e DYNASTIO_LABEL="Noahs-test"` — название вашего сервера
